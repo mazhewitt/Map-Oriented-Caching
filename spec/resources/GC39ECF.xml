@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Cache Listing Generated from Geocaching.com</name>
+  <desc>This is an individual cache generated from Geocaching.com</desc>
+  <author>Account "Jumakyto" From Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>http://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2012-07-06T16:48:33.295427Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="47.3281" minlon="8.572683" maxlat="47.3283" maxlon="8.573283" />
+  <wpt lat="47.3281" lon="8.572683">
+    <time>2011-12-24T08:00:00Z</time>
+    <name>GC39ECF</name>
+    <desc>By the side of the lake / An der Seeseite by Jumakyto, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6c150473-3d19-4368-b89d-0245aeb61590</url>
+    <urlname>By the side of the lake / An der Seeseite</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2641403" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>By the side of the lake / An der Seeseite</groundspeak:name>
+      <groundspeak:placed_by>Jumakyto</groundspeak:placed_by>
+      <groundspeak:owner id="4534768">Jumakyto</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Switzerland</groundspeak:country>
+      <groundspeak:state>Region Zuerich (ZH)</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p&gt;&lt;img src=
+"http://img.geocaching.com/cache/83901c68-bcdf-4361-9731-813ae745f647.jpg"
+align="center" /&gt;&lt;/p&gt;
+&lt;p&gt;En: A little cache with a lovely view on a little jetty in
+Küsnacht Goldbach.&lt;br /&gt;
+&lt;br /&gt;
+De: Ein kleiner Cache führt Sie zu einer schönen Aussicht, zu einem
+kleinen Landesteg in der Nähe in Küsnacht Goldbach.&lt;br /&gt;&lt;/p&gt;
+
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">EN: A quick cache in a beautiful spot on the edge of Lake Zürich.
+Parking nearby for your car or your boat. Watch out for fishermen.
+&lt;p&gt;DE: Ein schneller Cache an einem schönen Ort am Zürichsee.&lt;br /&gt;
+Vorsicht Angler!&lt;br /&gt;
+In der Nähe sind Parkplätze für Ihr Auto oder Ihr Boot.&lt;/p&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;PK39ECF - Parking&lt;br /&gt;N 47° 19.698 E 008° 34.397&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>En: No need to risk getting wet!
+De: Keine Notwendigkeit nass zu werden!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="245720582">
+          <groundspeak:date>2012-07-01T13:40:45Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="4534768">Jumakyto</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache box replaced with a new and slightly improved version.
+
+Der Box ist  zuruck!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="243908283">
+          <groundspeak:date>2012-06-23T17:18:23Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="4534768">Jumakyto</groundspeak:finder>
+          <groundspeak:text encoded="False">Unfortunately, the box has gone [:(] Perhaps it was muggled.  We are going to replace it as soon as we can.
+
+Leider ist der Dose weg [:(] Vielleicht war es gemuggelt. Wir werden es so schnell wie möglich ersetzen.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="241278973">
+          <groundspeak:date>2012-06-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4369247">Bone-Storm</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei wechselhaftem Wetter mit leichten Wolken und Regen kamen wir hier an. Anscheinend hat das Wetter einen recht hohen Anziehungsgrad für Angler was zwar recht hinderlich fürs Cachen war aber prima zur Tagesaufgabe passte die Geocoin an einen beliebten Anglerplatz zu deponieren. Nach einem kleinen Ablenkungsmanöver hielten wir die Dose in unseren Händen. Danke für den kleinen Ausflug und den Cache.
+
+IN GeoCoin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="240855615">
+          <groundspeak:date>2012-06-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="390697">jös</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz des Dauerregens diesen Cache gefunden.
+nass wurde ich aber nur von oben.
+Schön gemachtes Versteck..es gefällt!
+Gruss jös</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="239724410">
+          <groundspeak:date>2012-06-04T19:29:12Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4457040">pcnett</groundspeak:finder>
+          <groundspeak:text encoded="False">Am späten den wirklich wunderschön getarnten Cache geloggt ... :-).</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="239723439">
+          <groundspeak:date>2012-06-04T19:29:28Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4461235">vetderm</groundspeak:finder>
+          <groundspeak:text encoded="False">Super cooles Versteck! In Ruhe suchen koennen ganz ohne Angler aber bei viel Wind</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="239656545">
+          <groundspeak:date>2012-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2568645">Röschel</groundspeak:finder>
+          <groundspeak:text encoded="False">Schon mal hier gewesen aber damals war es unmöglich den Cache zu heben da unmittelbar genau vor dem Cache Muggels standen.Heute nochmals versucht und bei fast Regenwetter ungestört suchen und loggen können,anbei irgendwie war ich hier zuerst blind!
+Schöner Ort hier!
+
+Vielen Dank für den Cache!
+
+Gruss Röschel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="237046928">
+          <groundspeak:date>2012-05-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4224979">die3besten</groundspeak:finder>
+          <groundspeak:text encoded="False">auf unserer heutigen tour kamen wir auch an der seeseite vorbei. cooles cacheversteck an einem schönen ort.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="237017786">
+          <groundspeak:date>2012-05-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1248185">onur</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf meiner heutigen kleinen Cacherunde in der Agglomeration Zürich, auch an diesem erfrischenden Ort vorbeigekommen. Hier dauerte die Suche etwas länger. Schlussendlich hielt ich aber das Gesuchte in der Hand. Danke für den coolen Cache an diesem schönen Ort.
+Gruss onur</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="237269521">
+          <groundspeak:date>2012-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1789602">gcchmaus_i</groundspeak:finder>
+          <groundspeak:text encoded="False">1151 at  09:35
+
+Mit Doña Rodolphos eine kleine Freitags-nur2/3-Frauenpower-Runde gestartet. 
+Dieser war Nummer 2, eigentlich solltens noch einige mehr werden, aber es wollte heute einfach nicht so wie wir. 
+Hier hatten wir jedoch unsere grosse Freude - so ein schöner Morgen und noch eine schönere Aussicht. 
+Nach dem Geniessen haben wir uns der Suche hingegeben. Beim ersten Anlauf espähte Doña Rodolphos dann schnell etwas verdächtiges...
+Es war mal ganz was Neues - ein Plastikei, versteckt in einem Blumentrog... Nee, oder doch nicht?
+Schnell war klar, dies war ein richtiges, verlassenes Entenei...
+Also nochmals gut schauen und AHA! so geht das... 
+Hat uns gut gefallen, darum vergebe ich gerne ein Schleifchen
+TFTC
+gcchmaus_i </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="236801354">
+          <groundspeak:date>2012-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1707915">Don Rodolphos</groundspeak:finder>
+          <groundspeak:text encoded="False">[size=1]Fund #1883 @09:35
+[size=2]Heute war zusammen mit gcchmaus_i eine klitze kleine Zürichseeaufräumaktion geplant, welche dann schlussendlich nicht ganz so ertragreich war wie erhofft. Aber wir hatten unseren Spass dabei und was will frau mehr? [;)]
+Hier angekommen mussten wir zuersteinmal die tolle Aussicht geniessen. Ist immerwieder schön [^]. Unser zweiter Blick galt dann der Dose. Wirklich cool gemacht. Die Ausarbeitung hat mir sehr gefallen. [:)]
+TFTC / Don Rodolphos zusammen mit gcchmaus_i</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="236144270">
+          <groundspeak:date>2012-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="58092">Chris28561</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöner Ort an einem ruhigen Abend... Vielen Dank für den Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="236467958">
+          <groundspeak:date>2012-05-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1855049">cascata</groundspeak:finder>
+          <groundspeak:text encoded="False">zusammen mit steimetz war ich heute auf kleiner cachertour in dieser region und warum nicht rasch auf dieser seeseite[:I] beim ufer nach diesem cache sehen? das luftige cachermobil von steimetz hatten wir dabei nicht einmal benötigt, wir liessen es beim pp des "krähenfuss"-cache zurück und ein kleiner fussmarsch dem see entlang tat gut. 
+die warnung vor fischer-muggels ist hier wirklich angebracht, waren doch etliche daran ihr abendessen zu organisieren[:P]. wir kümmerten uns dabei um den cache, den ich sehr rasch erblickte: er ist bestens der umgebung angepasst und sehr schön angefertigt[8D]...
+auf einer bank sitzend planten wir dann unsere nächsten cacherziele, während neben mir fleissig silch ins wasser geschwungen und wieder eingezogen wurde - leider ohne dass während unserer aufenthaltszeit etwas daran hängen geblieben wäre[:(]...
+
+#1330 ¦ 19.05.2012 ¦ 13:58 ¦ TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="235420734">
+          <groundspeak:date>2012-05-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3668174">Steimetz</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute waren Cascata und ich zusammen auf einer Cacherrunde. Den hätte ich fast übersehen, da ich zuerst auf der falschen Seite suchte. Cascata entdeckte sehr schnell diese gut getarnte Dose. Nach dem Loggen genossen wir noch ein paar Minuten die schöne Aussicht.
+Danke für's Auslegen und Zeigen dieses schönen Ortes.
+Gruss Steimetz</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="235307185">
+          <groundspeak:date>2012-05-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4083115">tomulon</groundspeak:finder>
+          <groundspeak:text encoded="False">Wunderschöne Aussicht! War vor ein paar Wochen schon mal hier, nur da hatte sich ein Angelmuggler genau an diese Stelle platziert... musste also unverrichteter Dinge wieder abziehen. Aber heute ging die Sache ratz fatz!
+Vielen Dank fürs Zeigen.
+Lg aus Heidelberg</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="237310552">
+          <groundspeak:date>2012-05-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="5846188">mayyvonne</groundspeak:finder>
+          <groundspeak:text encoded="False">Mein erster cache. War cool! :-) danke</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="234809361">
+          <groundspeak:date>2012-05-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3908435">deep_blue84</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="234421749">
+          <groundspeak:date>2012-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="5731179">IgorBuddha</groundspeak:finder>
+          <groundspeak:text encoded="False">Ha! Das war nun der stürmiste Cache den ich geloggt habe! Ich habe ihn schnell entdeckt, dann in einer Windgeschützten Ecke mugglefrei geloggt, wieder zurück und dem Sturm getrotzt! TFTC 
+*40*</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="234354000">
+          <groundspeak:date>2012-05-15T16:02:10Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1986862">Ploff</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz hohen Wellen, Fischermuggels und viel Wind schnell und ohne nass zu werden entdeckt. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="234386731">
+          <groundspeak:date>2012-05-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1604062">Glen50</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit dem Velo auf einer morgendlichen Ausfahrt konnte ich die schöne Dose innert Sekunden entdecken.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="221973193">
+          <groundspeak:date>2012-03-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="4534768">Jumakyto</groundspeak:finder>
+          <groundspeak:text encoded="False">Visited the cache to drop off a geocoin and a trackable.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="217852322">
+          <groundspeak:date>2012-03-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="4534768">Jumakyto</groundspeak:finder>
+          <groundspeak:text encoded="False">Popped in to drop another geocoin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="216743811">
+          <groundspeak:date>2012-03-05T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="4534768">Jumakyto</groundspeak:finder>
+          <groundspeak:text encoded="False">Just popped in to drop a geocoin.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  <wpt lat="47.3283" lon="8.573283">
+    <time>2011-12-26T14:22:55.61</time>
+    <name>PK39ECF</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=3c632e9d-8f20-432b-88ae-03f05a35621e</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+</gpx>

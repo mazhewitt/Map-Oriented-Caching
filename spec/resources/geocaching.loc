@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loc version="1.0" src="Groundspeak">
+<waypoint>
+	<name id="GC39ECF"><![CDATA[By the side of the lake / An der Seeseite by Jumakyto]]>
+</name>
+<coord lat="47.3281" lon="8.572683"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC39ECF</link>
+<difficulty>1.5</difficulty>
+<terrain>1</terrain>
+<container>8</container>
+</waypoint></loc>
