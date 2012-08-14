@@ -3,30 +3,36 @@
 'use strict';
 
 describe("GeocacheController", function(){
-
-    it("can initialise the database", function(){
-        var geocacheDB = GeocacheDatabase;
-        var databaseSpy = sinon.spy();
-        geocacheDB.init().done(databaseSpy());
-        waitsFor(function(){
-            return databaseSpy.called;
-        }, "Database never completed", 1000);
-        
-        runs(function(){
-            expect(databaseSpy.called).toBeTruthy();
+    var geocacheDB = GeocacheDatabase;
+    
+    beforeEach(function(){
+        var dbSize = 20 * 1024 * 1024;
+        var db = openDatabase("Geocaches", "1.0", "Geocaching Store", dbSize);
+        var deleteSpy = sinon.spy();
+        db.transaction(function(tx){
+            tx.executeSql("DROP TABLE geocache");
+        }, function(err){
+			console.log(err);
+        }, function(a, b){
+            deleteSpy();
         });
+        waitsFor(function(){
+            return deleteSpy.called;
+        }, "Database drop never completed", 1000);
+        geocacheDB.init();
+    });
+    
+    it("can initialise the database", function(){
+        expect(geocacheDB.initialised).toBeTruthy();
     });
     
     it("can save a Geocache in the database", function(){
-        var geocacheDB = GeocacheDatabase;
-        geocacheDB.init();
         var geocache = new Geocache();
         var storeSpy = sinon.spy();
         geocache.init(gpxFile);
         geocacheDB.store(geocache).done(storeSpy).fail(function(err, err2){
-            console.log("Database Store failed: " + err +" " +err2);
+            console.log("Database Store failed: " + err + " " + err2);
         });
-        
         waitsFor(function(){
             return storeSpy.called;
         }, "Database store never completed", 1000);
