@@ -24,7 +24,11 @@ var Geocache;
 		},
 		set gpxFile(gpxFile){
 			init(gpxFile);
+		},
+		get mainCoordinate(){
+			return this._wayPoints[0].coordinate;
 		}
+		
 	};
 
     Geocache.prototype._gpxDocument = null;
@@ -64,6 +68,9 @@ var Geocache;
         var guid = extract.exec(url);
 		return guid[1];
 	};
+	
+	
+
 
 	var extractWaypoints = function(gpxDocument) {
 		var gpxWayPts = gpxDocument.find("wpt");

@@ -36,10 +36,9 @@ var GeocacheDatabase = (function(){
 	var store = function(geocache){
 		var savingGeocache = new $.Deferred();
         database.transaction(function(tx){
-            tx.executeSql("INSERT INTO " +
-            "geocache.geocache(GUID, GCCode, lat, lon, GPXFile), VALUES (?,?,?,?,?)", [geocache.GIOD, geocache.GCCode, geocache.lat, geocache.lon, geocache.gpxFile]);
-        }, function(tx, err){
-            savingGeocache.fail(err);
+            tx.executeSql('INSERT INTO geocache(GUID, GCCode, lat, lon, GPXFile) VALUES (?,?,?,?,?)', [geocache.GUID, geocache.GCCode, geocache.mainCoordinate.lat, geocache.mainCoordinate.lon, geocache.gpxFile]);
+        }, function(err){
+            savingGeocache.reject(err.message);
         }, function(tx, err){
             savingGeocache.resolve();
         });

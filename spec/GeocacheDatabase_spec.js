@@ -23,8 +23,8 @@ describe("GeocacheController", function(){
         var geocache = new Geocache();
         var storeSpy = sinon.spy();
         geocache.init(gpxFile);
-        geocacheDB.store(geocache).done(storeSpy()).fail(function(err){
-            console.log("Database Store failed: " + err);
+        geocacheDB.store(geocache).done(storeSpy).fail(function(err, err2){
+            console.log("Database Store failed: " + err +" " +err2);
         });
         
         waitsFor(function(){
