@@ -4,6 +4,10 @@ var GeocacheDatabase = (function(){
 
     var database = null;
     var _initialised = false;
+	
+
+	var	GEOCACHE_NOT_FOUND = "GEOCACHE_NOT_FOUND";
+	var	DATABASE_ERROR = "DATABASE_ERROR";
     
     var init = function(){
         return initialiseDatabase().pipe(createTable());
@@ -40,28 +44,53 @@ var GeocacheDatabase = (function(){
         database.transaction(function(tx){
             tx.executeSql('INSERT INTO geocache(GUID, GCCode, lat, lon, GPXFile) VALUES (?,?,?,?,?)', [geocache.GUID, geocache.GCCode, geocache.mainCoordinate.lat, geocache.mainCoordinate.lon, geocache.gpxFile]);
         }, function(err){
-            savingGeocache.reject(err.message);
-        }, function(tx, err){
+            savingGeocache.reject(DATABASE_ERROR, err.message);
+        }, function(tx, results){
             savingGeocache.resolve();
         });
-        return savingGeocache;
+        return savingGeocache.promise();
     };
     
+	var loadByGCCode= function(gcCode){
+		var loadingGeocache = new $.Deferred();
+		database.transaction(function(tx){
+			tx.executeSql('SELECT GPXFile from geocache where GCCode = ?', [gcCode], function(tx, results){
+				if (results.rows.length < 1) {
+					savingGeocache.reject(GEOCACHE_NOT_FOUND, gcCode + " not found in database");
+				}
+				else {
+					var gc = new Geocache();
+					gc.init(results.rows.item(0).GPXFile);
+					loadingGeocache.resolve(gc);
+				}
+			}), function(err){
+				loadingGeocache.reject(DATABASE_ERROR, err.message);
+			}
+		});
+        return loadingGeocache.promise();
+	};
+	
     
     var public_interface = {
         init: init,
-        store: store
+        store: store, 
+		loadByGCCode: loadByGCCode, 
+		GEOCACHE_NOT_FOUND: GEOCACHE_NOT_FOUND, 
+		DATABASE_ERROR: DATABASE_ERROR
     };
+	
     Object.defineProperty(public_interface, "initialised", {
         get: function(){
             return _initialised;
         }
     });
+	
     Object.defineProperty(public_interface, "database", {
         get: function(){
             return database;
         }
     });
+	
     return public_interface;
     
 })();

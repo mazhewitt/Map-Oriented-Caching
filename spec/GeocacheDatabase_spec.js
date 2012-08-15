@@ -2,7 +2,7 @@
 
 'use strict';
 
-describe("GeocacheController", function(){
+describe("GeocacheDatabase", function(){
     var geocacheDB = GeocacheDatabase;
     
     beforeEach(function(){
@@ -12,7 +12,7 @@ describe("GeocacheController", function(){
         db.transaction(function(tx){
             tx.executeSql("DROP TABLE geocache");
         }, function(err){
-			console.log(err);
+            console.log(err);
         }, function(a, b){
             deleteSpy();
         });
@@ -26,10 +26,12 @@ describe("GeocacheController", function(){
         expect(geocacheDB.initialised).toBeTruthy();
     });
     
-    it("can save a Geocache in the database", function(){
+    it("can save a Geocache in the database and load it back again", function(){
         var geocache = new Geocache();
         var storeSpy = sinon.spy();
+        var loadSpy = sinon.spy();
         geocache.init(gpxFile);
+        var loadedCache;
         geocacheDB.store(geocache).done(storeSpy).fail(function(err, err2){
             console.log("Database Store failed: " + err + " " + err2);
         });
@@ -38,7 +40,21 @@ describe("GeocacheController", function(){
         }, "Database store never completed", 1000);
         
         runs(function(){
-            expect(storeSpy.called).toBeTruthy();
+            geocacheDB.loadByGCCode("GC3C8Z9").done(function(cache){
+                loadedCache = cache;
+                loadSpy();
+            }).fail(function(code, msg){
+                console.log(code + " " + msg);
+				loadSpy();
+            });
+        });
+        
+        waitsFor(function(){
+            return loadSpy.called;
+        }, "Database load never completed", 1000);
+		
+        runs(function(){
+            expect(geocache.GCCode).toEqual(loadedCache.GCCode);
         });
     });
     
