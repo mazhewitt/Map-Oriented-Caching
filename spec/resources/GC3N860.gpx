@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Cache Listing Generated from Geocaching.com</name>
+  <desc>This is an individual cache generated from Geocaching.com</desc>
+  <author>Account "cassiopeias" From Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>http://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2012-08-29T19:38:11.670841Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="47.329083" minlon="8.590717" maxlat="47.329083" maxlon="8.590717" />
+  <wpt lat="47.329083" lon="8.590717">
+    <time>2012-06-10T07:00:00Z</time>
+    <name>GC3N860</name>
+    <desc>Quaaaaaaaaaaaaaaaak! by cassiopeias, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=750bc1dc-68f5-45fe-a718-d2f95cc2a065</url>
+    <urlname>Quaaaaaaaaaaaaaaaak!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2992928" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Quaaaaaaaaaaaaaaaak!</groundspeak:name>
+      <groundspeak:placed_by>cassiopeias</groundspeak:placed_by>
+      <groundspeak:owner id="1305075">cassiopeias</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Switzerland</groundspeak:country>
+      <groundspeak:state>Region Zuerich (ZH)</groundspeak:state>
+      <groundspeak:short_description html="True">
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;h2&gt;Frage den Frosch!!&lt;br /&gt;
+&lt;br /&gt;&lt;/h2&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://img.geocaching.com/cache/large/497e5fa1-6ff4-490d-9f94-fa389bd1cdc9.jpg" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="261746108">
+          <groundspeak:date>2012-08-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="5756115">anika117</groundspeak:finder>
+          <groundspeak:text encoded="False">Hm, diesen kleinen Grünen beobachte ich seit seiner Publikation aus sicherer Distanz und habe mich dabei oft gewundert, was er wohl quaken mag... Beim Picnic-Halt am Rumensee dann auf einmal realisiert, dass das Fröschlein ja ganz in der Nähe sitzen muss. Kurz gesucht, gut gefunden, aber dann - kein Quak, kein Quaaaak, und schon gar kein Quaaaaaaaaaaaaaaaak! ist zu hören?! Erst als wir mit den Augen statt mit den Ohren zu suchen begannen, fanden wir die Dose endlich. Danke für den Cache!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="261310352">
+          <groundspeak:date>2012-08-27T15:09:53Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="5160972">wavydavey</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it! Nice hide - but don't forget a pen!! TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="261041670">
+          <groundspeak:date>2012-08-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3725028">Leo006</groundspeak:finder>
+          <groundspeak:text encoded="False">Diesen seltsamen, ungewöhnlichen Cache haben wir gut gefunden. Vielen Dank fürs Verstecken. Leider gaben uns aber die Frösche keine Antwort. Vielen Dank fürs Verstecken.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="260970990">
+          <groundspeak:date>2012-08-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1770039">Fajda</groundspeak:finder>
+          <groundspeak:text encoded="False">Herr und Frau Frosch waren tatsächlich zu Hause und verrieten uns, wo ihr Kleiner war. Vielen Dank fürs Verstecken.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="261317849">
+          <groundspeak:date>2012-08-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1823567">recketpowder</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach der Packstückorietierung wollte ich eigentlich schon nach Hause aber in Küsnacht liess das Gewitter bereits nach und so lag noch ein Fröschlein drin.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="260057848">
+          <groundspeak:date>2012-08-23T08:48:53Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2963999">Angus78</groundspeak:finder>
+          <groundspeak:text encoded="False">Statt Znüni, gibts halt einen Cache!
+Diese Dose könnte wieder mal eine Generalüberholung gebrauchen.
+Danke
+
+Angus78</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="261630279">
+          <groundspeak:date>2012-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2232773">grizzlybox</groundspeak:finder>
+          <groundspeak:text encoded="False">#2510;
+Wir haben so richtig gut hingehorcht. Aber statt der erwarteten Quakerei tönten uns nur die normalen Geräusche des Waldes entgegen. Nachdem wir uns einige Zeit erfolglos im sumpfigeren Teil der Gegend getummelt hatten, besannen wir uns eines Besseren und richteten die Suchmatrix neu aus. Kurz darauf war das Froschkonzert dann auch entdeckt.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="261079582">
+          <groundspeak:date>2012-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3536809">fafafafa</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier wäre es hilfreich gewesen, wenn die Quaakis und auch wirklich angequakt hätten, denn wir suchten zuerst eine Zeit lang da, wo es ihnen unserer Meinung nach besten gefallen hätte... Sie hatten dann aber ihr Domizil ein wenig daneben aufgeschlagen, was uns dann aber zum Glück doch noch ins Auge stach.
+DFDC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="259988614">
+          <groundspeak:date>2012-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="5718153">ngy</groundspeak:finder>
+          <groundspeak:text encoded="False">Lustige Idee, vielen Dank für's Herführen. (Obwohl mir dieser Weiher natürlich bestens bekannt ist.)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="259585961">
+          <groundspeak:date>2012-08-21T07:25:01Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="5018733">Huma0</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein guten Morgen cachli :-)
+Schnell gefunden
+TFTC
+Huma0</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="258296670">
+          <groundspeak:date>2012-08-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3245850">Svandan</groundspeak:finder>
+          <groundspeak:text encoded="False">#840
+Langsam dunkelte es gewaltig im Wald und so mussten die Quaaaaaaaakis mit der Taschenlampe gesucht werden! Zum Glück hatten sie keine Angst vor dem grellen Licht und konnten bald gefunden werden
+TFTC und liebe Grüsse</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="257988813">
+          <groundspeak:date>2012-08-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3827975">RILLS</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute diesem Cache endlich einen Besuch abgestattet - und von RILLS Junior rasch gefunden worden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="257399205">
+          <groundspeak:date>2012-08-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1520287">seawalkers</groundspeak:finder>
+          <groundspeak:text encoded="False">Meine kleinen Seawalkers haben immer noch Ferien, so dachte ich gehen wir an den See, aber vorher wollen wir mal noch die Frösche Besuchen. Quaaaak, schneller gefunden als gedacht. Die Jungs waren ein wenig enttäuscht, dass ich ihn  ausversehen zuerst entdeckt habe. TFTC </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="256368771">
+          <groundspeak:date>2012-08-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4778205">4tintenfische</groundspeak:finder>
+          <groundspeak:text encoded="False">Den Vorloggs entnahmen wir, dass es matschig werden könnte. Also warteten wir eine regenfreie Periode ab. Heute wagten wir es, den Fröschen einen Besuch abzustatten...
+
+Sie winkten uns bald ganz nett zu- uns liessen uns gewähren. Wir dürften uns in ihrem Buch verewigen. Vielen Dank für diesen hübschen Cache!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="254585992">
+          <groundspeak:date>2012-08-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1026576">Rueschtis</groundspeak:finder>
+          <groundspeak:text encoded="False">Da waren wir heute wohl schon etwas zu lange auf der Pirsch.
+Wir sprangen von Norden her kommend über den Cache, ohne etwas zu merken. Dann folgte eine längere Suche einige Meter südlich vom Cache, natürlich ohne Erfolg. Wir versuchten zwar den Frosch zu fragen, wo er ist, aber er wollte uns einfach nicht antworten.
+Schliesslich konnten wir die Tomaten von den Augen abschütteln und fanden den Frosch, oder besser die Frösche, doch noch und kurz darauf auch den Cache.
+Danke für das zeigen des schönen Weihers und für den Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="253938652">
+          <groundspeak:date>2012-08-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1116628">bababa &amp; Lexi</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein kurzer Stopp an diesem sehr schönen und malerischen Ort brachte uns zum Frosch bzw. Cache [;)] Danke fürs Herführen!
+
+#1486 ¦ TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="253688871">
+          <groundspeak:date>2012-07-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4333717">satosvele</groundspeak:finder>
+          <groundspeak:text encoded="False">Dank einem Cache bin ich bereits früher einmal am Rumensee vorbeigekommen. Ein wirklich ganz idyllischer Weiher. So bin ich heute gerne wieder hierhin zurückgekommen um den Frosch zu suchen. Das GPS führte mich zum Nullpunkt und nach ein paar Blicken zeigten sich die Quaaacker ganz liebenswürdig und liesen mich gewähren. Vielen Dank fürs Verstecken der Dose und die lustigen Bewacher!!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="253114112">
+          <groundspeak:date>2012-07-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="371663">pasatho</groundspeak:finder>
+          <groundspeak:text encoded="False">Dank genauer Koordinaten war das Quaaaaken nicht zu überhören und zu übersehen... Den Cache nach wenigen Sekunden ebenfalls gefunden...
+Vielen Dank für den Cache an schöner Lage</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="252794132">
+          <groundspeak:date>2012-07-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1160969">reika</groundspeak:finder>
+          <groundspeak:text encoded="False">#3116 / geloggt: 14:25
+Schon von weitem quaaakten uns die Frösche an, und der Cache zeigte sich.
+Da fragt man sich ja schon warum die Umgebung um den Cache solch immense Verwüstungsspuren aufweist.
+Vielen Dank fürs Herführen an den schönen Weiher
+Reika</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="251186704">
+          <groundspeak:date>2012-07-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="5218944">ladytwo2</groundspeak:finder>
+          <groundspeak:text encoded="False">hier habe ich doch eine Weile gesucht, inkl. dreckige Schuhe am Schluss
+
+Danke für`s Auslegen</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="243959966">
+          <groundspeak:date>2012-06-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4534768">Jumakyto</groundspeak:finder>
+          <groundspeak:text encoded="False">Beautiful location and the cache was found very quickly by the 5-year old in the Jumakyto team.  If only we could solve some of Cassiopeias other caches so easily....  TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+</gpx>

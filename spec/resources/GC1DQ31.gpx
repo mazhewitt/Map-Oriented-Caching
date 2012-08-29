@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Cache Listing Generated from Geocaching.com</name>
+  <desc>This is an individual cache generated from Geocaching.com</desc>
+  <author>Account "mhu" From Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>http://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2012-08-29T19:36:35.0910714Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="47.31885" minlon="8.581267" maxlat="47.31885" maxlon="8.581267" />
+  <wpt lat="47.31885" lon="8.581267">
+    <time>2008-07-05T07:00:00Z</time>
+    <name>GC1DQ31</name>
+    <desc>Be together! by mhu, Unknown Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=77efaaef-feb2-4963-a4fc-e60d35cd1186</url>
+    <urlname>Be together!</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="921881" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Be together!</groundspeak:name>
+      <groundspeak:placed_by>mhu</groundspeak:placed_by>
+      <groundspeak:owner id="1584545">mhu</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Switzerland</groundspeak:country>
+      <groundspeak:state>Region Zuerich (ZH)</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;h1&gt;Es war einmal ein Pärchen, es lebte zusammen und am 5. Juli
+2008 14:00 war es dann soweit... sie heirateten in Küsnacht.&lt;/h1&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;h2&gt;Dies ist unser erster Mystery-Cache "Be together!", welchen wir
+unserem gemeinsamen Arbeitskollegen, bzw. Brautpaar widmen. An
+dieser Stelle nochmals alles Gute und einen guten Start in diesen
+neuen Lebensabschnitt.&lt;/h2&gt;
+&lt;p&gt;Bei einer Aufgabe / WP habt ihr die Möglichkeit dem Brautpaar
+ein Geschenk zu hinterlassen, bitte überlegt Euch was und bringt
+was feines mit (bitte keine verderblichen Materialien), ansonsten
+reicht auch ein Eintrag im Hochzeits-Glückwunschbuch oder ein
+Eintrag im Final, falls ihr den findet ;)&lt;/p&gt;
+&lt;p&gt;Wichtig: Uebliche Cacher-Werkzeuge wie Papier, Bleistift,
+Kamera, Taschenlampe, Hirn, Augen empfohlen.&lt;/p&gt;
+&lt;p&gt;An den Startkoordinaten (auch WP1) gibt es 2 Aufgaben, die Ihr
+auf den Weg dieses Mystery/Multicaches mitnehmen solltet.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. Aufgabe: An diesem Ort gibt es Nummern, welche Zahl ist
+die höchste Nummer?&lt;/b&gt;&lt;br /&gt;
+Resultat = &lt;b&gt;ABC&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. Aufgabe: Wieviele Sekunden ist man unterwegs, wenn man an
+folgende Seen wandert?&lt;/b&gt;&lt;br /&gt;
+Greifensee = &lt;b&gt;D&lt;/b&gt;, Rumensee = &lt;b&gt;E&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Aufgabe: Berechnung&lt;/b&gt;&lt;br /&gt;
+ Den WP2 erreichst Du folgendermassen: &lt;b&gt;F&lt;/b&gt;&lt;br /&gt;
+ = D-E+ABC &lt;b&gt;G&lt;/b&gt;= Quersumme von F &lt;b&gt;H&lt;/b&gt;= Von 59 ziehst Du die
+Quersumme F ab&lt;/p&gt;
+&lt;p&gt;WP2 ist dann bei:&lt;br /&gt;
+N 47. 19. &lt;b&gt;G&lt;/b&gt;&lt;br /&gt;
+E 8. 35. &lt;b&gt;H&lt;/b&gt;&lt;br /&gt;
+Damit findest Du den Weg zur „Apothekerin“.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. Aufgabe: Welche Pille nimmst Du?&lt;/b&gt;&lt;br /&gt;
+„Das ist Deine letzte Chance. Anschliessend gibt es kein zurück.
+Nimmst Du die falsche Pille, die Geschichte endet, Du wachst auf in
+Deinem Bett und du glaubst an alles was Du glauben willst. Nimmst
+Du die richtige Pille - du kommst ins Wunderland und ich zeige Dir
+wie tief ein Hasenloch ist.“ --Die Matrix, 1999&lt;br /&gt;
+Wähle die richtige Pille (Farbe)! WP3 führt Dich zum
+„Taucher“&lt;br /&gt;
+N 47. 19. &lt;b&gt;?&lt;/b&gt;&lt;br /&gt;
+E 8. 34. &lt;b&gt;?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. Aufgabe: Hast Du richtig gewählt?&lt;/b&gt;&lt;/p&gt;
+Dort findest Du auch ein Rätsel zum Endcache. Löse es!&lt;br /&gt;
+WP4 führt Dich zum Final:&lt;br /&gt;
+N 47. 19. &lt;b&gt;?&lt;/b&gt;&lt;br /&gt;
+E 8. 34. &lt;b&gt;?&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;h3&gt;Happy caching and be together!&lt;/h3&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ Version 1.2: 2008/07/23 19:30, Zwischenstation "geflickt",
+Wegwerfkamera rausgenommen :-( Version 1.1: 2008/07/05 20:30, Aus
+"Mittelwert" wird "Quersumme" ;) Danke das FTF-Team und deren
+Geduld und Mühe fürs "Debuggen" war wohl gestern doch zu heiss um
+den ersten fehlerfreien Cache auszuliefern ;) - Werde mir fürs
+Testen beim nächsten Cachertreffen etwas als "Belohnung" einfallen
+lassen. Merci!&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;011DQ31 - WP1: Start&lt;br /&gt;N 47° 19.131 E 008° 34.876&lt;br /&gt;&lt;br /&gt;021DQ31 - WP2: Die Apothekerin&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;031DQ31 - WP3: Der Taucher&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;041DQ31 - WP4: Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Aufgabe 1: Da parkt man sein Auto drauf
+Aufgabe 2: Wohl klar die gelben Zeichen!
+Aufgabe 3: Hast Du in der Schule gelernt ;)
+Aufgabe 4: Filmwissen hilft Dir weiter, nimm aber die Andere!
+Aufgabe 5: Der Schlüssel führt dich ans Ziel!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="234399429">
+          <groundspeak:date>2012-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4440975">bridge_player</groundspeak:finder>
+          <groundspeak:text encoded="False">Als zweiten Cache für heute hatte ich mir dieses [?] hier ausgesucht. Am Startpunkt waren die Infos rasch gesammelt. Die Apothekerin habe ich dann aber doch ein Weilchen gesucht - scheint ja auch anderen so gegangen zu sein. Irgendwann habe ich dann aber den Koordinaten doch vertraut und einfach am einzig möglichen Versteckort nachgeschaut. Und da war sie dann auch. Beim Taucher habe ich aufgrund der - im Nachhinein völlig falschen - Geländewertung des Caches nicht an der richtigen Stelle nachgeschaut. Irgendwann blieb dann keine andere Option übrig. Also flugs runtergeklettert und prompt das gesuchte Rätsel gefunden. Und auch beim Final habe ich erst mal am falschen Ort gesucht. Aber nachdem die im Auto sitzenden Muggels endlich abgezogen waren, hatte ich dann doch endlich auch noch die richtige Idee. Et voilà: Da war die ersehnte Dose [:)] Vielen Dank für den Cache!
+# 495</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="228205557">
+          <groundspeak:date>2012-04-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2098760">mundoceleste</groundspeak:finder>
+          <groundspeak:text encoded="False">Schon mehrfach hatten wir diesen Cache auf der Liste aber erst heute haben wir ihn unter die Füsse genommen. Der Start verlief problemlos aber mit der Apothekerin hatten wir unsere liebe Mühe. Wir waren am richtigen Ort, trauten der Sache aber nicht und so stellten wir etwas um und landeten dann auf Privatgrund... Also zurück und dieses mal etwas besser geschaut und auch gleich fündig geworden. [:)] Das nötige Filmwissen hatten wir aber wenn man das Listing nicht richtig liest, macht man eben doch das falsche. [B)][xx(]
+Die letzte Station war dann rasch erledigt aber wir genossen die Aussicht noch ein Weilchen auf einem nahegelegenen Bänkli. Anschliessend ging es zu den Final-Koordinaten und nach dem wir einige male die Seite gewechselt hatten wurden wir dann doch noch fündig. [:)]
+Bevor wir loggen konnten musste noch ca. 1dl Wasser aus der Büx geleert werden.
+
+Danke für diesen [?]!
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="204985912">
+          <groundspeak:date>2011-12-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="886344">T/anteFix</groundspeak:finder>
+          <groundspeak:text encoded="False">Eigentlich war ich heute in einer ganz anderen Mission hier unterwegs und bin reichlich zufällig und mit einer gewaltigen Abkürzung bei der Endbox gelandet.
+Wir haben damals eine ganze Weile gesucht, Antefix und ich. Heute konnte ich vom Erinnerungsvermögen profitieren.
+
+Schön, dass es diesen Cache immer noch gibt, danke!
+
+Die Terrainbewertung stimmt aber leider nach wie vor absolut nicht, hier wären meiner Meinung nach etwa 2,5 Sterne angebracht.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="191622648">
+          <groundspeak:date>2011-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1995966">geo-ka-ch</groundspeak:finder>
+          <groundspeak:text encoded="False">Also eigentlich ist dieser Cache mega interessant zum suchen. Man findet alle Posten ziemlich einfach, wenn man die Augen etwas sinkt.
+Die Böxlis wurden seit etwa 1 Jahr nicht mehr geöffnet worden. Nur das äussere dieser Böxlis hat was abbekommen. Aber der Inhalt und das Logbuch sind noch ok.
+Mit etwas Hilfe konnten alle Posten problemlos gefunden werden.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="164761615">
+          <groundspeak:date>2011-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3821586">GeoMonkey79</groundspeak:finder>
+          <groundspeak:text encoded="False">Na ja, da wurde seit fast einem Jahr nicht's mehr geloggt, daher ist es wohl kein wunder das wir schon bei der zwischenstation nicht mehr weiter gkommen sind! der Owner sollte mal nachsehen ob dieser Cache eigendlich noch kompler und machbahr ist!!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="122627456">
+          <groundspeak:date>2010-08-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1161091">iTS+iRossimo</groundspeak:finder>
+          <groundspeak:text encoded="False">Logtime 14:45 Uhr
+
+Dieser Mystery zusammen mit Team zesis absolviert. Hier konnten wir uns zügig durcharbeiten, hatten aber das Gefühl das Terrain sei etwas zu klein bewertet. Darum mussten wir bei einer Station etwas länger suchen. Wir schafften es aber doch noch gut zum Ziel. Dort etwas gestutzt aber dann gut gefunden.
+
+Danke für den speziellen Mystery und Gruss
+iTS vom Cache-Team iTS+iRossimo</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="122419703">
+          <groundspeak:date>2010-08-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1728199">zesis</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem ich beim letzten Mal bei der Apothekerin stecken blieb, war heute die Pillensuche schnell geklärt. 
+Die Pillendose wurde strengstens von einem Frosch bewacht, was die Sache auch nicht einfacher machte...
+Das Ende ging dann aber relativ zügig. Danke für die schöne Idee.
+zesis</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="96563756">
+          <groundspeak:date>2010-02-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2700240">RoManu</groundspeak:finder>
+          <groundspeak:text encoded="False">Wir waren anfangs auf dem rechten Weg...machten aber dazwischen eine Mittagspause und waren danach nicht mehr so motiviert weiter zusuchen. Es war zu frustrierend:-(. Die Idee finde ich aber sehr herzig!
+
+Mirjam, Vero, (Ro)Manu</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="94776977">
+          <groundspeak:date>2010-01-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="390697">jös</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute hat es geklappt, nachdem ich im letzten Jahr mit den Endkoordinaten zum Finale
+vorgestossen war. ich suchte damals an einem falschen Ort, mit richtigen Koordinaten. 
+Nach der Rückversicherung der koordinaten bin ich dieses Jahr mit neuem Elan an die 
+Sache gegangen, doch Väterchen Frost hatte mir ein zusätzliches Problem aufgeladen.
+Zum Glück ist Mann erfinderisch und hat etwas gut zu brauchendes Material dabei.
+Damit hat es geklappt und ich konnte diesen Cache auch loggen.
+Der Cache wird mir stets in guter Erinnerung bleiben, ist es doch im Hafen der Ehe auch nicht
+immer nur Sonnenschein. Dem vermählten Paar wünsche ich eine glückliche Zukunft,
+mit möglichst vielen Hochs und Founds!
+TFTC, cu jös
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93993572">
+          <groundspeak:date>2009-12-30T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1248185">onur</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute, zusammen mit Long Ben, dieses Fragezeichen angegangen. Das Wetter zeigte sich nicht gerade von seiner besten
+Seite, aber nicht desto trotz arbeiteten wir uns von Station zu Station. Bei der „Apothekerin“ kamen wir ein wenig ins Stocken.
+Long Ben lief dann aber zur Hochform auf. Der Endcache konnte sich dann auch ziemlich lange vor uns versteckt halten. Doch
+da wir nicht aufgaben, wurden wir auch hier fündig. [^]
+Danke für das Pillenfragezeichen und noch einen guten Rutsch ins neue Jahr.
+Gruss onur</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93983756">
+          <groundspeak:date>2009-12-30T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1173250">Long Ben</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit onur wahren wir heute auf Cacher-Tour hier in der Gegend. Da durfte ein Besuch des Städtchens natürlich
+nicht fehlen, was würde das besser passen als diesem Cache einen Besuch abzustatten [:)]
+Nachdem die ersten beiden Zahlen gesammelt waren, ging es zur Apothekerin, hier war guter Rat teuer und wir überprüften
+die gesammelten Zahlen nochmals penibel...Aber alles war korrekt und so viele Verstecke gab es da dann ja doch nicht....
+Aha, hier versteckt sie sich also [:)]. Die Pillen-Aufgabe war für mich als alten Matrix-Fan natürlich einfach zu lösen und
+schon bald standen wir beim Taucher.
+
+Der Endcache hingegen hielt sich lange vor uns verborgen, da wir immer wieder am falschen Ort suchten [:(],
+erst als der Radius ein wenig erweitert wurde, konnten wir uns im Logbuch eintragen.
+
+Danke für die Stadtführung durch Küsnacht</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="84252471">
+          <groundspeak:date>2009-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1307765">d'ronja</groundspeak:finder>
+          <groundspeak:text encoded="False">Waaas, hier finden wir eine Apothekerin? Ja, da war guter Rat teuer. Wir suchten und rechneten nochmals, aber einen Fehler entdeckten wir nicht. Schliesslich war uns dann doch noch die Fortuna hold und wir durften wählen- zwischen einer Pille und einer Pille. Ja, Pille ist immer bitter und wir erwischten erst die Falsche. Danach klappte es aber doch noch und der Endcache war unser. Ich war froh, waren wir together, sonst hätte es wohl nicht beim ersten Mal geklappt. Vielen Dank.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="84155376">
+          <groundspeak:date>2009-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1037696">Omeros</groundspeak:finder>
+          <groundspeak:text encoded="False">Uns erging es wie anderen auch:
+Nach dem Rechnen wurden wir bei der Apothekerin stutzig?!?
+Was hier? Wo? Hmmm...
+Nachdem alle Skrupel abgeschüttelt und die Streife abgezogen,
+konnten wir nun die Pillen finden.
+Schluckten natürlich zuerst die falsche, doch danach
+lief es wie am Schnürchen.
+Danke für die Runde durch Küsnacht.
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="75456776">
+          <groundspeak:date>2009-06-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="899497">SwissPoPo</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Start ging ziemlich flott. Bei der Apotheke mussten wir zuerst eine bittere Pille schlucken, da war keine. Es braucht schon ein wenig Unverforenheit um hier eine Apotheke hervor zu zaubern. Doch unglaublich, die Pillen kamen zum Vorschein und wir konnten uns für eine entscheiden. Weiter ging's ins Reich der Spinnen, wo wir ein kleines Rätsel lösen mussten. 
+Bei Endcache hatte ich dann gar keine Skruppel, machte mir noch schmutzigere Hände und griff nach dem Cache.
+
+Vielen Dank 
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="75437009">
+          <groundspeak:date>2009-06-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2327135">s'Rechnerli</groundspeak:finder>
+          <groundspeak:text encoded="False">Die ersten 3 Stationen stellten kein Problem dar, doch dann wurde etwas gesucht, denn irgendwie stellte ich mir diese Station ganz anders vor, doch plötzlich tauchte der Zwischenposten auf. Natürlich waren wir ganz vorsichtig mit den Pillen wie es sich gehört und haben zuerst den Beipackzettel gelesen, so dass wir auch bestimmt die richtige wählten. Es ging nun wieder zügig weiter bis zum Endcache, auch dieser konnte sich nicht lange vor uns verbergen. 
+Danke für die Runde</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="61049356">
+          <groundspeak:date>2009-01-18T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="384697">Tullus</groundspeak:finder>
+          <groundspeak:text encoded="False">Beim Start noch alles gefunden, dann gerechnet. Damit kam ich zwischen Kandelaber, Kirche, Hydrant und Bushaltstelle, aber keine Apotheke. Nun was soll ich hier nun ablesen? Mal verschiedenes probiert Aber alles gab irgendwie keinen sinn, damit diese Übung abgebrochen und der zweite Mistery wo man nichts finden kann heute.
+Gruss Tullus
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="60791655">
+          <groundspeak:date>2009-01-17T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="886457">Antefix</groundspeak:finder>
+          <groundspeak:text encoded="False">Punkt für Punkt arbeiteten wir uns vorwärts und kamen auch ganz gut voran, bis... hm... hier???? Nein, nicht wirklich. Oder?
+Wir suchten den Endcache halbherzig und mit etwas gemischten Gefühlen, brachen ab... machten uns auf den Rückweg zum Cachemobil... zogen noch einmal das Oregon hervor und lasen die letzten Logs... kehren um, schauten uns alles noch einmal gaaaaaaaaanz genau an und: ja, Bingo [:)]
+
+Das erste Mal übrigens, dass (T)anteFix eingesehen hat, dass ein Oregon tatsächlich gewisse Vorteile hat gegenüber dem Legend. Hmpf. [B)]
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="59080963">
+          <groundspeak:date>2008-12-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1238239">Saegeblatt</groundspeak:finder>
+          <groundspeak:text encoded="False">ALLES GUTE ZUR HOCHZEIT UND HAPPY CACHING
+
+Zusammen mit ET konnte auch ich heute diese Kapitel abschliessen.
+Hier war ich nicht zum ersten mal. Aber zum letzten:-)
+
+Danke für das tolle Rätsel und den Cache
+
+Grüsse Saegeblatt</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="59067798">
+          <groundspeak:date>2008-12-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1035554">ET_The_Finder</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem ich im Sommer schon einige Zeit fürs Suchen dieses Caches investiert hatte, konnte ich heute diese offenen Pendenz endlich abschliessen.
+Dem Hochzeitspaar wünsche ich viel Spass und viele glückliche Stunden.
+Danke für den Cache 
+Gruss ET_The_Finder
+
+Out Coin Paar</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="58989106">
+          <groundspeak:date>2008-12-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1907232">Juliettango</groundspeak:finder>
+          <groundspeak:text encoded="False">Schade, schon bei dem Parkplatz war der Wurm drin, denn die zu errechnenden Koordinaten waren am Ende nur zweistellig und nicht genau verwertbar. Den Weg der "Apothekerin" zwar gefunden, doch dann war Ende. Aus Zeitmangel und wegen hereinbrechender Dunkelheit abgebrochen. Dieser Cache ist nichts für "eben mal am Nachmittag"!!
+Vielleicht ein anderes Mal wieder, wenn man mehr Zeit mitbringen kann.
+Jochen ( Juliettango)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  <wpt lat="47.31885" lon="8.581267">
+    <time>2008-06-30T13:51:52.897</time>
+    <name>011DQ31</name>
+    <cmt />
+    <desc>WP1: Start</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=96732fb8-39f5-4263-970d-cc7f900d73d8</url>
+    <urlname>WP1: Start</urlname>
+    <sym>Question to Answer</sym>
+    <type>Waypoint|Question to Answer</type>
+  </wpt>
+</gpx>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Cache Listing Generated from Geocaching.com</name>
+  <desc>This is an individual cache generated from Geocaching.com</desc>
+  <author>Account "cassiopeias" From Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>http://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2012-08-29T19:37:52.6076076Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="47.316667" minlon="8.596667" maxlat="47.316667" maxlon="8.596667" />
+  <wpt lat="47.316667" lon="8.596667">
+    <time>2012-07-21T07:00:00Z</time>
+    <name>GC3PZ0V</name>
+    <desc>Sodido Mosamis Weltreise by cassiopeias, Unknown Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2d4a1647-7a92-4d7a-8a99-b6f82b6fc024</url>
+    <urlname>Sodido Mosamis Weltreise</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="3043701" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sodido Mosamis Weltreise</groundspeak:name>
+      <groundspeak:placed_by>cassiopeias</groundspeak:placed_by>
+      <groundspeak:owner id="1305075">cassiopeias</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Large</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Switzerland</groundspeak:country>
+      <groundspeak:state>Region Zuerich (ZH)</groundspeak:state>
+      <groundspeak:short_description html="True">
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;img src="http://img.geocaching.com/cache/large/bfb7caa6-77b8-47bf-8ded-b0dda95224c1.png" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;h3&gt;Sodido Mosami hat zum 20-jährigen Dienstjubiläum bei der Japan Times eine Weltreise geschenkt bekommen. Seine Rückreise in die Schweiz, wo er bekanntlich als Europakorrespondent tätig ist, führte ihn deshalb von Japan aus über Singapur weiter nach Indonesien. Dann ging es in die Südsee nach Tonga und es folgte ein langer Flug über den Pazifik in die USA. Als nächstes stand Kanada auf dem Programm. Danach machte Sodido in Tunesien erstmals Bekanntschaft mit dem afrikanischen Kontinent und flog einige Tage später weiter in die Türkei. Unbedingt wollte er auch noch Georgien kennenlernen, um schliesslich über Polen reisend glücklich wieder in der Schweiz zu landen.&lt;br /&gt;
+&lt;br /&gt;
+Als er später seine zahlreichen Reisebilder anschaut, da fällt ihm etwas auf. Was wohl?&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Lösungswort: _ _ _ _&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Das Lösungswort ist gleichzeitig das Schlüsselwort. Mit diesem kannst du die nachfolgende Vigenère-Verschlüsselung knacken und zum Final aufbrechen:&lt;br /&gt;
+&lt;br /&gt;
+TPCBT LCBUD IYCPN HFFNY JYSXS PIRYK WYJOR&lt;br /&gt;
+YJLCB UYEOO DIYCP NHVWL&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Tanoshii tabi wo! Und übrigens: Gehe vor Ort überall mit der nötigen VORSICHT zu Werke.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/h3&gt;
+&lt;/center&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;FF3PZ0V - Endcache&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="260693660">
+          <groundspeak:date>2012-08-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4440975">bridge_player</groundspeak:finder>
+          <groundspeak:text encoded="False">Das hier war mein erstes Zusammentreffen mit Sodido Mosami. Beim Rätsel habe ich wirklich ganz schön lange gebraucht und in Gedanken die schöne Weltreise selber nachvollzogen (da könnte man glatt neidisch werden...). Aber irgendwann bin ich dem Herrn doch noch auf die Schliche gekommen und konnte ihm die Koordinaten entlocken.
+Nach Feierabend sind Bazzi, Sody und ich dann zu dritt losgezogen, um Herrn Mosami auch noch persönlich zu treffen - jetzt wo er wieder in der Schweiz ist [;)] Schliesslich wollten wir ja auch noch ein paar detaillierte Geschichten von seiner Weltreise hören.
+Die mussten wir uns aber erst mal verdienen. Unser GPS hat uns deshalb erst mal ein gutes Stück zu weit runter geschickt. Und als das geklärt und der Aufstieg geschafft war, haben wir gleich nochmal eine ganze Weile braucht, bis wir uns endlich eintragen konnten. Eine wirklich tolle Dose! [8D]
+Vielen Dank fürs Auslegen!
+# 703</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="260376124">
+          <groundspeak:date>2012-08-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1530605">Bazzi</groundspeak:finder>
+          <groundspeak:text encoded="False">[font=Verdana][size=1]# 2864[/size] [size=2][blue]
+:grin: plamiere dich täglich einmal und so wars dann auch heute bei diesem böxle so. äh, das isch doch kein nano, ein large. aber dieser wollte sich einfach ned zeigen. zuerst einen km langen abstieg und umweg dann wieder zurück und dann immer noch nix. bis dan lady gaby den mut fasste und es klappte.
+vielen dank für den kleinen, smile
+[/size][size=2][b][red] grüsse vom bazzi und sody</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="261638968">
+          <groundspeak:date>2012-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2232773">grizzlybox</groundspeak:finder>
+          <groundspeak:text encoded="False">#2512;
+Wir haben Herrn Sodido ja schon mehrfach begleitet. So war es natürlich selbstverständlich, dass er auch auf seiner Weltreise nicht auf unsere Begleitung verzichten muss. Da wir mit der nötigen Technik ausgerüstet sind, konnten wir uns ein wenig vorbereiten. Und wussten bereits, bevor der erste Flieger abhob, wohin die Reise hingehen sollte. 
+
+Heute haben wir auf unserer cassiopeias-Abend-Aufräum-Runde auch diese Mega-Dose angefahren. Rasch haben wir sie gefunden und uns gerne auf dem coolen Logbuch verewigt.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="261091793">
+          <groundspeak:date>2012-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3536809">fafafafa</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem vor einiger Zeit Herrn Mosamis Brause gefunden werden konnte, interessierte ich mich natürlich auch für seine Reiseroute. Ich flog ihm in Gedanken um die ganze Welt nach und hatte auch bald das Geheimnis seiner Destinationen erkannt. Die schöne grosse Dose erfreute uns dann vor Ort sehr, und wir trugen uns vergnügt ins tolle Logbuch ein!
+Vielen Dank für das schöne [?]!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="258773812">
+          <groundspeak:date>2012-08-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1855049">cascata</groundspeak:finder>
+          <groundspeak:text encoded="False">ja, ja, der herr mosami! wenn ich es mir so überlege, ist dieser herr schon recht bekannt bei mir: ich habe ihm schon geholfen sein arbeitswerkzeug wieder zu finden, seine verloren geglaubte getränkedose mit einem cito wiederbeschafft - und nun sehe ich, dass er mir nichts dir nichts auf weltreise geht [:P]...
+gerne hätte ich natürlich seine fotos auch etwas näher betrachtet, das blieb mir aber verwehrt. so rätselte ich etwas lange darüber nach, was wohl auf diesen fotos so zu sehen wäre...aber ich konnte nichts erahnen und die informationen auf der weltkarte halfen mir nicht gerade viel weiter....
+mit einem kleinen anstupser, was der japanische weltenbummler so auf seiner fotokamera drauf haben könnte, legte sich die unschärfe und ich sah klarer...
+sein freund viginère war dann einiges auskunftfreudiger als der sodido und so erledigte ich heute den outdoorteil. ein toller cache, wunderbar zum thema platziert und meinen logeintrag habe ich in dieser form auch noch nie hinterlegen dürfen [;)].
+tiptope arbeit, besten dank dafür!
+
+#1529 ¦ 18.08.2012 ¦ 12:48 ¦ IN:TB Unite for Diabetes Travel Bug_GC More Color Geocoin ¦ NOTRADE ¦ TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="255210885">
+          <groundspeak:date>2012-08-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1474696">Tokeh</groundspeak:finder>
+          <groundspeak:text encoded="False">Potz potz, ich muss schon sagen, eine so grosse Kiste habe ich schon lange nicht mehr vorgefunden!
+
+Während einem netten Grillplausch mit lizard.king wurde an dem Rätsel herumstudiert. Offenbar lag es am leckeren Härdöpfelsalat, dass wir nach längeren erfolglosen Versuchen mit Cervelat und Bratwurst endlich weiterkamen. 
+Vermutlich ist Sodido einfach der Sprit ausgegangen und so plumpste die Idee wie ein herunterfallender Flieger uns in den Schoss. Mmmmmhhh, Dessert.
+Am Zielort angekommen war es schon richtig dunkel. Zum Glück gibt es bei der Büxengrösse nicht allzu viele Möglichkeiten. Doch auch hier sei gesagt; ein wirklich guter, belohnender und ganz ausgebuffte Käsch [^] Hochachtung!
+Besonders das sehr spezielle Logbuch hat es mir angetan und ich denke nun auch über eine Flugreise nach...
+
+Mässi für diesen Speziellen! FP!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="255011490">
+          <groundspeak:date>2012-08-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="269071">lizard.king</groundspeak:finder>
+          <groundspeak:text encoded="False">Dieser Cache wurde zeitgleich mit meiner Abreise in die Feriem publiziert. Nach der Rückkehr stand er daher auch ganz oben auf der Prioritätenliste.
+
+Bei einem schönen Grillplausch konnten Tokeh und ich einen vielversprechenden Lösungsansatz entwickeln und daraus Koords ableiten. Auf dem Weg nach Hause haben wir, nach einem Abstecher zum Cassiopeiaschen 1. August Cache, die ermittelte Position aufgesucht.
+
+Einmal mehr wurden wir mit einer sehr grossen Box mit bestens zum Thema passendem Inhalt überrascht. Die Logaufgabe haben wir natürlich wie vom Owner vorgesehen erledigt.
+
+Danke für das schöne Rätsel und natürlich auch für die tolle Büchse!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="254587760">
+          <groundspeak:date>2012-08-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1026576">Rueschtis</groundspeak:finder>
+          <groundspeak:text encoded="False">Darfs heute noch ein Cache von Cassiopeias sein? Klar, den suchen wir noch auf dem Heimweg. Wir mussten glücklicherweise nicht ganz so weit reisen wie der gute Sodido Mosami und konnten uns auch schon bald auf dem genialen Logbuch verewigen. 
+Es ist immer wieder eine Freude einen Cache von Cassiopeias zu finden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="253939771">
+          <groundspeak:date>2012-08-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1116628">bababa &amp; Lexi</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem wir das Rätsel kürzlich gelöst hatten, führte uns der Weg heute auch noch bei Sodido Mosami vorbei. Da bababa damals nach des Rätsels Lösung einfach den PC ausgestellt und keine Lösung notiert hatte, musste heute nochmals eine kurze Entschlüsselung bzw. Übersetzung folgen, was aber zum Glück mit dem bekannten Lösungswort ein Leichtes war [:)] Die *mega* coole Box konnte sich dann auch nicht lange vor uns verstecken und wir konnten uns - trotz Qual der Wahl - entsprechend im Logbuch eintragen [8D] (und weil das Logbuch so klasse ist, kriegt der Cache natürlich auch von uns einen FP [:D][^])
+Immer wieder schön, dass dem Owner die Ideen nicht ausgehen und wir somit mit weiteren cassiopeias-Caches beschäftigt bleiben [;)][:D]
+
+#1487 ¦ TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="253772227">
+          <groundspeak:date>2012-07-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2757477">antike Wölfe</groundspeak:finder>
+          <groundspeak:text encoded="False">Diese Weltreise hat uns doch einige Vorbereitungen gekostet und da wir nicht gerade zu den geübten Weltenbummlern gehören, mussten wir haufenweise Überlegungen suchen, finden und sie wieder verwerfen. Als es dann endlich Klick machte, weil verschiedene Personen an diesem Rätsel teilgenommen hatten, konnten wir unsere gesammelten Daten zusammen legen und es wurden die vier Buchstaben daraus. Zusammen mit Zwalinkis machten wir uns dann auf den Weg die Reise zu vollenden. Was uns da wieder an Einfallsreichtum begegnete war wirklich ein Riesenhit. Ein Logbuch von diesem Format sieht man wirklich nicht alle Tage und es wird uns wohl auch noch lange in Erinnerung bleiben. Dieser Abendausflug mit den beiden Zwalinskis, wovon der männliche Teil die Kohlen aus dem Feuer holte, hat uns grossen Spass und Freude gemacht. Grossen Dank an alle und Grüsse an Cassiopeias, die uns immer wieder Kopf und Beine in Schwung bringt
+die antiken Wölfe</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="253702751">
+          <groundspeak:date>2012-07-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1957610">zwalinski</groundspeak:finder>
+          <groundspeak:text encoded="False">Wie es sich für eine Weltreise gehört, haben wir uns auf diesen Trip gründlich vorbereitet. Das "Kofferpacken" hat sich über einige Tage hingezogen, bis wir dann endlich "einchecken" konnten. Mit auf die Reise haben wir die antiken Wölfe genommen, zuviert reist sich's ja viel kurzweiliger;-)
+Mit den richtigen Kords konnte dann der Cache gehoben werden. Ein super Logbuch, wir waren begeistert. Herzlichen Dank für diese Super-Idee! Grüessli Zwalinski</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="253692717">
+          <groundspeak:date>2012-07-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4333717">satosvele</groundspeak:finder>
+          <groundspeak:text encoded="False">Dieses Rätsel hat sehr viel Spass bereitet. Das Codewort wurde ziemlich zügig enttarnt, die Umschlüsselung problemlos bewältigt, doch dann geriet die Sache arg ins Stocken.  Irgend jemand stand da ziemlich auf der Leitung. So kam die entscheidende Idee, wie die Lösungswörter zu interpretieren sind erst spät abends unter der Dusche [:P][:P][:P]... Irgendwie unerklärlich, aber wenn man einmal in der Sackgasse ist, kommt man halt nicht immer so schnell wieder hinaus [;)]. 
+Die grosse Dose ist wirklich an einem schönen Platz zu Hause. Gerne hätte ich dort noch ein bisschen den schönen Sommerabend genossen, aber der Heimweg rufte.
+Vielen Dank für dieses wiederum sehr kreative Rätsel und das tolle Logbuch!!!
+in &amp; out: TB</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="253335271">
+          <groundspeak:date>2012-07-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1055216">RCH65</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem wir kurze Zeit vorher "Das Auge" nur durch die Hintertür lösen konnten, verhielt es sich hier peinlicherweise ganz ähnlich. Aber lest doch einfach selbst:
+
+CPI XFC VCHYELF GELTNHFÜTDEFVYG EBYN GBY ZO HWÜCE LWALUPXN VYD MDSLÜMTPL PFCTUVDCBFY UHE DO JSZBCFCTY JNH GBW DYO VLUSEERU "PIHT", "KWYJ" PTW VYD VFT "SYDSS" YSDCBJPN XPNH NBESÄWIWIWI "MLUV" LLM TNHFÜTDEF. JNH BBME VJD JYUKT UCPR EFTNY BSNOOR, WCF XAH ELRUVQ KINXT...
+
+Vor Ort war's dann heute keine grosse Sache mehr und wir konnten die Hammerbox mit ihrem coolen "Logbuch" ohne Probleme lokalisieren und unbeobachtet loggen. [^]
+
+Geloggt um 15:40
+Thanks!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="253194773">
+          <groundspeak:date>2012-07-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3105114">Jonas&amp;Corina</groundspeak:finder>
+          <groundspeak:text encoded="False">OfN dB OAm XLR YJY RcDSTcHPR mQLSm ETEmFd ränTPL tV WöSYO  MIm VYS XBd  ciEhOlU fNm LWAl  XLR aJYG YT PIhF hEcMP . Em ILT oOd SjBdS aFXAWIe . DcF qEfELRVFTT qBc DUOY  NoS YOWI PIh LWAr  ELNeF QüRm BfSfFREh
+
+wie im listing</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="253109112">
+          <groundspeak:date>2012-07-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="371663">pasatho</groundspeak:finder>
+          <groundspeak:text encoded="False">Neben den vielen Highlights der heutigen Cacherunde stach dieses ? noch etwas heraus. 
+Schon beim Rätsel zerbrachen wir uns den Kopf. Irgendeinmal kamen wir auf den richtigen Weg, doch was soll dabei das richtige Wort sein. Erst als wir ein Land etwas genauer betrachteten, fiel uns das entscheidende auf... die Endkoordinaten wurden gutgeheissen...
+Heute ging es dann vor Ort zuerst ebenfalls harzig zur Sache. Reika auf der einen Seite rauf und runter, Pasatho auf der anderen - nichts gefunden... oben gesucht, unten gesucht - tatsächlich wurde dann Reika fündig und zog einen Macro-Cache hervor. Das Logbuch war dann das Riesen-Pünktchen auf dem i- wunderbar...
+Vielen Dank für den von A-Z wunderbaren ?-Cache à la Cassiopeias</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="252792449">
+          <groundspeak:date>2012-07-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1160969">reika</groundspeak:finder>
+          <groundspeak:text encoded="False">#3113 / geloggt: 13:20
+Für eine Weltreise braucht es immer eine gewisse Vorbereitung, da die Reise kurzfristig angesagt war hat diese Vorbereitung Pasatho perfekt erledigt.
+Vielen Dank dafür.
+Am Nullpunkt musste ich natürlich auch noch etwas dazu beitragen und so habe ich die "Riesen Box" geborgen.
+Vielen Dank für diese Herausforderung und den "Mega Cache"
+Reika</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="252385596">
+          <groundspeak:date>2012-07-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2342529">urusuchris</groundspeak:finder>
+          <groundspeak:text encoded="False">Zuerst die Cracks und dann die Gruftis. Hei, sind wir stolz! Nach einer schlaflosen Nacht endlich das Rätsel gelöst und heute die Superbüx gehoben. Herzlichen Dank für das wiederum tolle Cache mit dem passenden "Logbuch"
+urusuchris
+In: TB Zoggeli
+
+This entry was edited by urusuchris on Saturday, 28 July 2012 at 06:38:51 UTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="252290915">
+          <groundspeak:date>2012-07-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2257842">susazu</groundspeak:finder>
+          <groundspeak:text encoded="False">Ja, auch ich habe mich sofort auf das Rätsel gestürzt, alles auch in Farbe ausgedruckt und sogar einen Ansatz verfolgt. Der führte aber nur ins Vigenère-Chaos. Also nirgendwohin. Ich versuch ja ganz nah zu suchen [:)], im Moment passiert einfach nichts...................</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="252206465">
+          <groundspeak:date>2012-07-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1116628">bababa &amp; Lexi</groundspeak:finder>
+          <groundspeak:text encoded="False">Auch wir haben das Rätsel geknackt [:)] Mit der richtigen Idee und etwas Googeln haben wir die Spur von Sodido's Fotoalbum aufgenommen, und mit etwas Fantasie hat sich dann auch das Lösungswort gezeigt [:D][:D] Difficulty könnte auch eine Spur höher sein, wir mussten auch mit der richtigen Idee doch noch ziemlich hirnen [;)]
+Die Büx holen wir uns, wenn wir wieder mal in der Nähe sind [8D]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="252164072">
+          <groundspeak:date>2012-07-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="5218944">ladytwo2</groundspeak:finder>
+          <groundspeak:text encoded="False">und ich suche wo möglich viel zu weit weg.............................. wenn nicht gar in Japan...........
+
+und komme auf keine vernünftige Lösung...........</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+</gpx>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Cache Listing Generated from Geocaching.com</name>
+  <desc>This is an individual cache generated from Geocaching.com</desc>
+  <author>Account "Bazzi" From Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>http://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2012-08-29T19:38:01.3592229Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="47.320333" minlon="8.594067" maxlat="47.325117" maxlon="8.597783" />
+  <wpt lat="47.320333" lon="8.597783">
+    <time>2011-07-24T07:00:00Z</time>
+    <name>GC2N5QF</name>
+    <desc>Bazzi 's Schübelweiher by bazzi, Traditional Cache (2.5/4)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=01853528-0756-4740-aac5-8d694c00b50d</url>
+    <urlname>Bazzi 's Schübelweiher</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2067066" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bazzi 's Schübelweiher</groundspeak:name>
+      <groundspeak:placed_by>bazzi</groundspeak:placed_by>
+      <groundspeak:owner id="1530605">Bazzi</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>4</groundspeak:terrain>
+      <groundspeak:country>Switzerland</groundspeak:country>
+      <groundspeak:state>Region Zuerich (ZH)</groundspeak:state>
+      <groundspeak:short_description html="True">
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;div align="center"&gt;&lt;br /&gt;
+&lt;div align="center"&gt;&lt;img src="http://cache.ath.cx/rollender_lachkopf.gif" /&gt;
+&lt;div align="center"&gt;&lt;img src="http://www.tatra-register.de/pix/2.gif" /&gt;
+&lt;div align="center"&gt;&lt;img src="http://cache.ath.cx/rollender_lachkopf.gif" /&gt;&lt;/div&gt;
+&lt;p class="MsoNormal" align="center" style="margin-bottom:.0001pt;text-align:center;"&gt;&lt;span style="font-size:12.0pt;line-height:115%;color:red;"&gt;Am 24. März 2008&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" align="center" style="margin-bottom:.0001pt;text-align:center;"&gt;hat bazzi hier in der Nähe sein erstes &lt;span class="SpellE"&gt;Böxle&lt;/span&gt; geloggt.&lt;/p&gt;
+&lt;p class="MsoNormal" align="center" style="margin-bottom:.0001pt;text-align:center;"&gt; &lt;/p&gt;
+&lt;p class="MsoNormal" align="center" style="text-align:center;"&gt;&lt;span style="font-size:12.0pt;line-height:115%;color:#7030A0;"&gt;Nö &lt;span class="SpellE"&gt;nö&lt;/span&gt;, es ist kein T5, aber für die letzten 9 Meter brauchst du&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" align="center" style="text-align:center;"&gt;&lt;span style="font-size:12.0pt;line-height:115%;color:#7030A0;"&gt;schon ein bisserl Mut, Kraft, Gewandtheit und Ausdauer.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" align="center" style="text-align:center;"&gt;Happy T5-1&lt;/p&gt;
+&lt;p class="MsoNormal" align="center" style="text-align:center;"&gt;wünscht euch&lt;/p&gt;
+&lt;p class="MsoNormal" align="center" style="text-align:center;"&gt;bazzi &amp;amp; sody&lt;/p&gt;
+&lt;div align="center"&gt;&lt;img src="http://img.geocaching.com/cache/faef9d8c-8671-410b-9b23-7778334fa46b.jpg" /&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;012N5QF - Parking&lt;br /&gt;N 47° 19.507 E 008° 35.644&lt;br /&gt;parkiere hier und geniesse den schönen kurzen schübi-spaziergang zum T4!!&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Spoiler im Bild</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="260976462">
+          <groundspeak:date>2012-08-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3823826">boenli</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Baum hat uns sehr gut gefallen. Während sich wavie erleichterte, hat sein Freund die Gelegenheit ergriffen und ist gleich zu der Büx hochgeklettert. Als er unten ankam, hatte er gleich die gesamte Installation dabei[:I] Na gut, jetzt war alles, dann hatte ich für alle mal geloggt. Wavie liess es sich nicht nehmen, die Dose wieder aufzuhängen. Nach einiger Zeit hatte er es dann auch tatsächlich geschafft und wir konnten weiterziehen[^]
+
+Danke für diesen schönen Baumcache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="260192802">
+          <groundspeak:date>2012-08-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="5704828">Ado &amp; Lomoli</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein (Spoiler-)Bild sagt mehr als tausend Worte.. [:D] 
+Hier wollte Ado unbedingt hin! Sie liebt es, genau das zu tun, was nötig ist, um an die Dose zu kommen. 
+Die Büx sahen wir schon von Weitem und der Einstieg war durch das momentane Holzlager darunter auch mehr als einfach. Diesmal war unser XXL-Tool komplett überflüssig.. [;)]
+Gut ausgesucht, dieses Exemplar, wirklich problemlos machbar. Danke für diesen Kleinen in luftiger Höhe. 
+
+
+*452 - 16:40</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="258296873">
+          <groundspeak:date>2012-08-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3245850">Svandan</groundspeak:finder>
+          <groundspeak:text encoded="False">#841
+Dieser T4er musste noch drin liegen bevor es ganz eindunkelte! Wir hatten grad noch Tageslicht genug um den Cache zu entdecken und ihn zu bergen.
+TFTC und liebe Grüsse</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="257717026">
+          <groundspeak:date>2012-08-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2779206">henni 4</groundspeak:finder>
+          <groundspeak:text encoded="False">Das ist aber wirklich ein schöner Cache. Keine stundenlange Sucherei sondern  mehr oder weniger anspruchsvoller Körpereinsatz ist hier gefragt. Hat uns allen Spass gemacht. Der Baum ist gut ausgesucht, merci hat grad einen Pkt verdient</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="251652854">
+          <groundspeak:date>2012-07-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3752990">Total4</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Wettervorhersagen für heute war so perfekt, da musste Frau einfach eine kleine Wanderung vorbereiten. Die Geocacherkarte wurde sehr genau unter die Lupe genommen. Schlussendlich habe ich mich für einen Besuch im Küsnachter-Tobel entschieden. Da haben die Kids genügend Gelegenheit um sich aus zu toben und für Mama gab es ab und zu ein Döschen [:P]. Was will Frau noch mehr [;)]!
+
+Nach dem zMorge starteten wir unsere Tour und marschierten zu Fuss an den Bahnhof. Dort erwartete uns die S9, welche uns zum Bhf. Stadelhofen beförderte. Von dort aus ging die Reise mit der roten Frieda (Forchbahn) weiter. Einen kleinen Halt durften wir bei Rehalp einlegen, denn dies war die letzte Frieda-Dose die uns für den Bonus noch fehlte. Danach ging die Reise bis nach Zumikon weiter. Von dort aus starteten wir unseren Fussmarsch in Richtung Küsnachter-Tobel. Von "Gwundrig und Clever" über "Die Drachenhöhle (Küsnacht), wo wir nach Besuch der Höhlen auch unsere Mittagspause verbrachten, bis hinauf zu "Bazzi's Schübelweiher" und wieder runter ins Tobel und auf der anderen Seite rauf zur "Ruine Wulp" war alles dabei. Eine herrliche Wanderung in schönster Umgebung. Einfach Idylle und Natur pur.
+Nachdem dann (fast) alle geplanten Dosen besucht waren, durften sich die Kids im Dorfbach noch so richtig austoben, auskühlen und verweilen. Irgendwann war dann genug Füsse gebadet, die Hosen auch genügend nass und unser Nachhause rufte ebenfalls. Der Weg bis zum Bahnhof war wiederum gespickt mit viel Natur. Vorbei am Alexander-Stein und dem Steingarten, bis zum "Dorfmuseum" und schlussendlich den Weg zum Bahnhof. Dort gönnten wir uns ein Glace und warteten erschöpft und zufrieden auf unseren Zug.
+
+Ein schöner und erlebnisreicher Tag geht zu Ende. Es war einfach traumhaft. Die Kids haben die Strapazen gut gemeistert und kamen, wie auch Mama, voll auf ihre Rechnung.
+
+Wir möchten uns bei allen Owners der von uns besuchten Schätzen bedanken. Dank diesen Dosen wurde unsere Wanderung zu einem unvergesslichen und lässigen Abenteuer. Merci.
+
+Zum Cache "Bazzi's Schübelweiher":
+Nachdem wir eine kleine Mittagsverpflegungspause bei der Drachenhöhle eingelegt hatten, zogen wir gut gestärkt weiter. Ob wir genügend Kraft für ein dieses Abenteuer hatten, wussten wir nicht genau. Doch wir waren eben sehr gwundrig. Schnell war auch ein geeigneter Weg zum besagten Baum gefunden. Um den Nullpunkt herum machten wir uns ein wenig Schlau. Als dann das Gesuchte von Junior geortet wurde, gab es für ihn kein zurück mehr. Ob das gut kommt [?] [B)]! Während sich Junior an die Arbeit machte, sassen Zwergli und Mama in der Nähe etwas tiefer unten. Zuschauen konnte Mama nicht, nur mitfiebern und anfeuern, dass konnten wir zwei Frauen sehr gut. Irgendwann kam von einigen Stockwerken höher das Eche "bi dobe am logge". Juhuii, ein Weg geschafft. Schon nach wenigen Augenblicken spürte Mama einen Hauch warme Luft und die Botschaft "Mami ich bi wieder da" drang ins innere von meinem rechten Ohren und belebte sogleich meinen Körper und Geist. Bravo [:o)]. Junior hat dieses Abenteuer super gemeistert. Ich bin sehr stolz auf ihn [;)]! Ihm hat dieser Ausflug sehr viel Spass gemacht. Merci für diesen Schwindelerregenden [:D]!
+
+#832 @12:45 Uhr
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="250071199">
+          <groundspeak:date>2012-07-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4440975">bridge_player</groundspeak:finder>
+          <groundspeak:text encoded="False">Irgendwie musste ich mich heute Abend noch ein bisschen austoben - da kam mir dieser Cache gerade richtig. Eigentlich wollte ich ja nur mal kurz schauen, wie der Baum denn so aussieht. Aber dann hat mich der Kleine da oben halt doch gereizt. Und so habe ich mich mal unten auf die "Einstiegshilfe" gestellt und so die ersten paar Griffe und Tritte ausprobiert. Tja, was soll ich sagen, die haben ziemlich gut funktioniert und so habe ich mich dann halt doch immer weiter vorgearbeitet den Baum hoch und bis zur Dose. Vielen Dank für die Herausforderung in schöner Umgebung! [:)] 
+# 652</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="249477509">
+          <groundspeak:date>2012-07-16T08:10:37Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4024599">methusalixx</groundspeak:finder>
+          <groundspeak:text encoded="False">S macht halt einfach spass trotz grauen Haaren wiedermal Kind zu sein:-)
+Danke fürs das schöne Erlebnis </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="247801808">
+          <groundspeak:date>2012-07-09T15:01:04Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="301404">Herr und Frau Knowhow</groundspeak:finder>
+          <groundspeak:text encoded="False">13:00
+Den Cache erspähten wir schnell. Die sportliche Einlage stellte uns vor keine unlösbare Aufgabe. Danke für den Wipfelstürmer.
+Danke fürs Verstecken.
+
+Herr und Frau Knowhow</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="245806337">
+          <groundspeak:date>2012-07-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="467006">Lederstrumpf</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute war auf dem Weg nicht viel los. So konnten wir uns in aller Ruhe der Bergung des Cache widmen.
+Danke für das Auslegen.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="244348618">
+          <groundspeak:date>2012-06-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2629351">SouthernLord</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf kurzer Küsnachter-Tour war ziemlich klar, dass wir ein paar KüT5-(wenn auch ohne T5 - vorerst..)Team-Caches finden würden.. Kurz vor diesem Cache fanden wir noch den Baum bzw. die (das?) Matroschka - irgendwie herrschte da schon Vorfreude.. [;)]
+
+Diesen Cache haben wir gut gefunden, das Bergen und Loggen dauerte dann doch eeeeetwas länger.. ohne zuviel verraten zu wollen. [:D]
+
+Danke für diese Herausforderung und den Cache!
+
+#1077
+Logzeit: 15:25 Uhr</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="244247562">
+          <groundspeak:date>2012-06-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3869518">Izzifix</groundspeak:finder>
+          <groundspeak:text encoded="False">#2093
+Heute zusammen mit dem Owner einen Besuch beim Böxli abgestattet und eine Matrix-Leerstelle gefüllt. 	[:D] Unter sorgsamen Blicken des Küü-Maas und 4x4WUWU und den Bandschlingen ging es natürlich besonders leicht. Auch bei mir war das Döslein leer, leider hatten wir gerade keinen passenden Ersatz dabei. Danke für den schönen Cacher-Tag-Start und liebi Grüessli, Izzifix</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="242595337">
+          <groundspeak:date>2012-06-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4599865">saa-biene</groundspeak:finder>
+          <groundspeak:text encoded="False">Mein erster T4! :-) Zum Glück war ich mit sova47 unterwegs, und konnte den schwierigen Teil ihm überlassen. Wenigstens habe ich das Böxlein entdeckt, sonst hätte ich nicht gerade viel dazu beigetragen. Wie schon gesagt wurde, war der Cache leider leer, wir haben auch in der Nähe keinen Zettel gefunden und deshalb einen neuen reingelegt... 
+Danke für den Cache!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="242570924">
+          <groundspeak:date>2012-06-17T12:35:09Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3572636">sova47</groundspeak:finder>
+          <groundspeak:text encoded="False">Coole Sache, Aber: oben auf dem Baum einen leeren Cache gefunden!! Wir haben einen Zettel reingelegt... Danke für den Cache!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="252142259">
+          <groundspeak:date>2012-06-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3263265">Terrorkeks01</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit Mama und Papa gcchmaus_i gefunden TFTC Terrorkeks01</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="246932492">
+          <groundspeak:date>2012-06-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3712385">Pichi 1</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut und schnell gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="242395580">
+          <groundspeak:date>2012-06-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1789602">gcchmaus_i</groundspeak:finder>
+          <groundspeak:text encoded="False">1217 at  17:19
+
+Den bisher heissesten Tag des Jahres haben wir genutzt, um eine kleine Aufsammeltour zu machen. Uns zog es in Richtung gelöster Cassiopeias, aber auf dem Weg "liegende" haben wir gerne auch mitgenommen. 
+Wieder mal war das ganze Family Team beisammen, und jeder konnte seinen Beitrag zu den gefundenen Caches beitragen - obwohl klar ist, dass klein-Terrorkeks01 unser bester Finder in der Truppe ist. 
+
+Hmm, ein T4 sollte doch auch für uns Bodenwühler machbar sein. Besonders wenn man 2 Jungcacher dabei hat. 
+Nachdem wir unten im Tobel waren, zog es uns nun auch noch in die Höhe, bzw. unser kleinster und wendigster Family-Cacher machte sich souverän und ohne Umschweife an die Arbeit. Angefeuert vom Bruder, geistig und technisch unterstützt von Papa gcchmaus_i beobachtet von der in Angstschweiss badenden Mama hat Terrorkeks01 uns ins sehr nasse Logbuch eingetragen. 
+TFTC die ganze gcchmaus_i family mit Terrorkeks01 und Pichi 1
+
+
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="242394813">
+          <groundspeak:date>2012-06-16T19:33:31Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3263265">Terrorkeks01</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit Mama und Papa gcchmaus_i geloggt.TFTC Terrorkeks01</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="235352751">
+          <groundspeak:date>2012-05-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3204466">mammut44</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute war ich wieder einmal auf eine kleinen Cacherrunde und habe diesen nach kurzer Zeit gefunden.
+
+Leider war in der Kapsel Wasser und der Logstreifen nass und am rosten... Müsste ev. ersetzt werden.
+
+Gruess Mammut44</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="235080286">
+          <groundspeak:date>2012-05-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="3049946">Drea-Popa</groundspeak:finder>
+          <groundspeak:text encoded="False">Vom Küsnachter-Tobel hier hoch gekraxelt. Jedoch fehlte uns für die letzten 9 Meter eindeutig der Mut - bin mir nicht sicher, ob die Äste mein Gewicht gehalten hätten ;-)). Aber wir haben dem Cache zumindest zugewinkt.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="219580717">
+          <groundspeak:date>2012-03-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2559793">geo-oli</groundspeak:finder>
+          <groundspeak:text encoded="False">Für solche Abenteuer kann mich a smile for you schnell begeistern. [:D][8D][:D] TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  <wpt lat="47.325117" lon="8.594067">
+    <time>2011-01-31T02:22:43.697</time>
+    <name>012N5QF</name>
+    <cmt>parkiere hier und geniesse den schönen kurzen schübi-spaziergang zum T4!!</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a8b5f353-42ad-4688-a873-82f889120513</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+</gpx>

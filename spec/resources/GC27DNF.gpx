@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Cache Listing Generated from Geocaching.com</name>
+  <desc>This is an individual cache generated from Geocaching.com</desc>
+  <author>Account "lizard.king" From Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>http://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2012-08-29T19:37:44.8543939Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="47.322917" minlon="8.576667" maxlat="47.322917" maxlon="8.576667" />
+  <wpt lat="47.322917" lon="8.576667">
+    <time>2010-04-29T07:00:00Z</time>
+    <name>GC27DNF</name>
+    <desc>Die kalte Dusche by Boletus Edulis &amp; Lizard King, Unknown Cache (3.5/5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3b687e0f-2eeb-4983-ac86-a91a3c66a902</url>
+    <urlname>Die kalte Dusche</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1657618" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Die kalte Dusche</groundspeak:name>
+      <groundspeak:placed_by>Boletus Edulis &amp; Lizard King</groundspeak:placed_by>
+      <groundspeak:owner id="269071">lizard.king</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>3.5</groundspeak:difficulty>
+      <groundspeak:terrain>5</groundspeak:terrain>
+      <groundspeak:country>Switzerland</groundspeak:country>
+      <groundspeak:state>Region Zuerich (ZH)</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=
+"http://homepage.hispeed.ch/PanoramaCache/dusche/shower.gif" /&gt;&lt;/td&gt;
+&lt;td valign="top"&gt;&lt;font size="4"&gt;&lt;b&gt;Eine kalte Dusche an der
+Goldküste&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=
+"http://homepage.hispeed.ch/PanoramaCache/dusche/shower.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">Nach ausgedehnten Cachetouren empfiehlt sich meist eine Dusche.
+Wenn Du ein Warmduscher, Teletubbyzurückwinker oder Fussföhner
+bist, dann kannst Du dafür nach Hause oder auch in die Badeanstalt
+am Ankerpunkt gehen.&lt;br /&gt;
+&lt;br /&gt;
+Falls Du beim Duschen auf die etwas härtere oder hardcore Tour
+stehst, dann versuchst Du am besten die Startkoordinaten zu
+ermitteln damit Du schon bald eine kalte Dusche nehmen
+kannst.&lt;br /&gt;
+&lt;br /&gt;
+&lt;font size="3"&gt;&lt;b&gt;Hausaufgaben&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=
+"http://homepage.hispeed.ch/PanoramaCache/dusche/dusche.gif" /&gt;&lt;br /&gt;
+
+&lt;br /&gt;
+Beantworte als erstes die folgenden Fragen:
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+Z1:&lt;/td&gt;
+&lt;td valign="bottom"&gt;Anzahl grosse gelbe Punkte (inkl. Rückseite des
+Schirms)&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&amp;nbsp;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+Z2:&lt;/td&gt;
+&lt;td valign="bottom"&gt;Anzahl Augen (inkl. Rückseite des Kopfes)&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+Z3:&lt;/td&gt;
+&lt;td valign="bottom"&gt;Anzahl Blumen (keine hinter der Katze)&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+Z4:&lt;/td&gt;
+&lt;td valign="bottom"&gt;Anzahl Tropfen die nicht auf einen Schirm
+fallen&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&amp;nbsp;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+Z5:&lt;/td&gt;
+&lt;td valign="bottom"&gt;Anzahl Haare der Katze ohne Schwanz (erste 3
+Ziffern der Anzahl)&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&amp;nbsp;___&amp;nbsp;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+Z6:&lt;/td&gt;
+&lt;td valign="bottom"&gt;Anzahl Eingänge der Badi am Ankerpunkt&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+Keine Angst! Mit etwas Nachdenken wirst Du sicher die richtigen
+Schlüsse ziehen.&lt;br /&gt;
+&lt;br /&gt;
+Berechne nun die folgenden Zahlen:&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+N.NNN&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;
+Z5&amp;nbsp;/&amp;nbsp;(Z1&amp;nbsp;-&amp;nbsp;0.371)&amp;nbsp;/&amp;nbsp;(Z2&amp;nbsp;*&amp;nbsp;Z6)&amp;nbsp;+&amp;nbsp;0.6321&lt;/td&gt;
+&lt;td valign="bottom"&gt;
+=&amp;nbsp;___&amp;nbsp;.&amp;nbsp;___&amp;nbsp;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+E.EEE&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;
+(Z5&amp;nbsp;-&amp;nbsp;4.921)&amp;nbsp;*&amp;nbsp;Z4&amp;nbsp;/&amp;nbsp;Z1&amp;nbsp;/&amp;nbsp;(Z1&amp;nbsp;/&amp;nbsp;Z2)&amp;nbsp;/&amp;nbsp;(Z3&amp;nbsp;-&amp;nbsp;Z6)&amp;nbsp;-.473&lt;/td&gt;
+&lt;td valign="bottom"&gt;
+=&amp;nbsp;___&amp;nbsp;.&amp;nbsp;___&amp;nbsp;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+Die Formeln ergeben eine Zahl zwischen 1 und 10 mit 3
+Nachkommastellen.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td rowspan="2"&gt;&lt;img src=
+"http://www.mysticalforum.ch/images/smilies/n_8.gif" width="78"
+height="40" /&gt;&lt;/td&gt;
+&lt;td&gt;Das war hoffentlich einfacher als gedacht! &lt;img src=
+"http://www.geocaching.com/images/icons/icon_smile_evil.gif" /&gt;
+&lt;img src=
+"http://www.geocaching.com/images/icons/icon_smile_wink.gif" /&gt;&lt;/td&gt;
+&lt;td rowspan="2"&gt;&lt;img src=
+"http://homepage.hispeed.ch/PanoramaCache/dusche/shower.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Auf alle Fälle kannst Du nun ein bischen an die frische Luft
+und die kalte Dusche suchen.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;font size="3"&gt;&lt;b&gt;Irgendwo draussen&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Startpunkt:&lt;/b&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+&lt;b&gt;N&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="bottom" align="right"&gt;47°&lt;/td&gt;
+&lt;td valign="bottom"&gt;1 ___&amp;nbsp;.&amp;nbsp;___&amp;nbsp;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+&lt;b&gt;E&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="bottom" align="right"&gt;008°&lt;/td&gt;
+&lt;td valign="bottom"&gt;3 ___&amp;nbsp;.&amp;nbsp;___&amp;nbsp;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+Die folgenden Angaben brauchst Du um beim Outdoorteil die Position
+der Endbox, sowie die Zahlen für das Zahlenschloss zu ermitteln.
+Also ausdrucken und zusammen mit Deiner übrigen Ausrüsting NICHT
+zuhause vergessen.&lt;br /&gt;
+&lt;br /&gt;
+Am von Dir ermittelten Startpunkt findest Du eine reizvolle
+Umgebung für Deine weiteren Aktionen. Insgesamt musst Du 4 Hinweise
+bzw. 4 Zahlen mit je 4 Stellen die mit A, B, C &amp;amp; D bezeichnet
+sind finden (Die Zahl E kennst Du ja bestimmt schon). Zwei der
+Hinweise sind ohne grosse Probleme sichtbar, für die anderen beiden
+Hinweise braucht es ev. etwas mehr Geduld.&lt;br /&gt;
+&lt;br /&gt;
+Notiere die gesuchten Zahlen:
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+A&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;__&amp;nbsp;__&amp;nbsp;__&amp;nbsp;__&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+B&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;__&amp;nbsp;__&amp;nbsp;__&amp;nbsp;__&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+C&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;__&amp;nbsp;__&amp;nbsp;__&amp;nbsp;__&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+D&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;__&amp;nbsp;__&amp;nbsp;__&amp;nbsp;__&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+E&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;__&amp;nbsp;__&amp;nbsp;__&amp;nbsp;__&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Die Zahlen A und B schreibst Du nun hintereinander damit Du eine
+die neue Zahl F mit 8 Stellen erhältst:
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="bottom"&gt;&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;&lt;br /&gt;
+A&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;A&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;A&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;A&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;B&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;B&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;B&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+F&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+Nun musst Du von Zahl D die Zahl C abziehen und die Zahl E
+addieren, um die Zahl G mit 4 Stellen zu erhalten:
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+G&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+D&amp;nbsp;-&amp;nbsp;C&amp;nbsp;+&amp;nbsp;E&amp;nbsp;=&amp;nbsp;&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+Multipliziere nun die Zahlen F und G. Du erhältst nun eine letzte,
+neue Zahl, die Du am besten auf der folgenden Zeile einträgst:
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="bottom"&gt;&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;O&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;P&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;Q&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;R&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;S&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;T&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;U&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;V&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;W&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;X&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;Y&lt;/td&gt;
+&lt;td align="center" valign="bottom"&gt;Z&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+F&amp;nbsp;*&amp;nbsp;G&amp;nbsp;=&amp;nbsp;&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Nach dieser Rechnung hast Du es schon fast geschafft und kannst die
+Koordinaten der Endbox und den Code für das Zahlenschloss
+ermitteln:&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Cachebox:&lt;/b&gt;&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+N&lt;/td&gt;
+&lt;td valign="bottom" align="right"&gt;47°&lt;/td&gt;
+&lt;td valign="bottom"&gt;1P.TYZ&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;N&lt;/td&gt;
+&lt;td valign="bottom" align="right"&gt;47°&lt;/td&gt;
+&lt;td valign="bottom"&gt;1 ___&amp;nbsp;.&amp;nbsp;___&amp;nbsp;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+E&lt;/td&gt;
+&lt;td valign="bottom" align="right"&gt;008°&lt;/td&gt;
+&lt;td valign="bottom"&gt;3R.XTU&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;E&lt;/td&gt;
+&lt;td valign="bottom" align="right"&gt;008°&lt;/td&gt;
+&lt;td valign="bottom"&gt;3 ___&amp;nbsp;.&amp;nbsp;___&amp;nbsp;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+Für das Zahlenschloss solltest Du Dir als letztes noch die
+folgenden Zahlen aufschreiben:
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+Code 1&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;OW&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+Code 2&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;QZ&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="bottom"&gt;&lt;br /&gt;
+Code 3&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;US&lt;/td&gt;
+&lt;td valign="bottom"&gt;=&lt;/td&gt;
+&lt;td valign="bottom"&gt;___&amp;nbsp;___&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td rowspan="2" valign="middle"&gt;&lt;img src=
+"http://homepage.hispeed.ch/PanoramaCache/dusche/shower.gif" /&gt;&lt;/td&gt;
+&lt;td valign="top"&gt;Du hast es geschafft! Nun musst Du nur noch zum
+Endcache wandern und die Dose finden.&lt;/td&gt;
+&lt;td rowspan="2" valign="middle"&gt;&lt;img src=
+"http://homepage.hispeed.ch/PanoramaCache/dusche/shower.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wir wünschen viel Glück und Vergnügen beim suchen und loggen
+dieses Caches.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Hinweise:&lt;/b&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top"&gt;&lt;font color="red"&gt;Vorsicht! Bitte bei allen
+Aktionen im Gelände viel Vorsicht walten lassen und keine Risiken
+eingehen. Die Terrainsterne sind ernst zu nehmen. KEIN CACHE IST ES
+WERT, DASS DU DAFÜR DEIN LEBEN RISKIERST!&lt;/font&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=
+"http://www.geocaching.com/images/attributes/danger-yes.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Du bist für alle Deine Aktionen selber
+verantwortlich!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Wenn Du einer der berühmtberüchtigten
+Ehrenkodexcacher bist, dann ist ja klar, dass Du selber auch eine
+kalte Dusche nehmen willst und ein Bild davon ins Log
+stellst!!!!!!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Bitte nicht quer durch
+Naturschutzgebiete laufen. Es gibt genügend Wege.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Keine Privatgrundstücke betreten. Alle
+Stationen sind problemlos über öffentliches Gelände
+erreichbar.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Rennt bitte nicht quer durchs hohe
+Gras oder durch Felder. Es gibt mehr als genügend öffentliche Wege.
+Die Landwirtschaftsmuggels mögen sowas nicht und wir wollen den
+Cache nicht wegen Komikern die sich nicht an die Regeln halten
+schliessen müssen.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Nach Abschluss der Aktion wirst Du
+sicher auch noch eine warme Dusche nehmen wollen.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Wie schon oben erwähnt, kannst Du Dir
+weitere Aktionen sparen, wenn Deine Berechnungen bei den
+Hausaufgaben nicht Zahlen zwischen 1 und 10 mit 3 Nachkommastellen
+ergeben. Falls Du Deinen Rechenkünsten trotz einem gültigen
+Resultat nicht traust, dann kannst Du ja vor dem losrennen den
+&lt;a style="a {color: black }" href=
+"http://homepage.hispeed.ch/PanoramaCache/geochecker/check.htm?code=488b8881a5a16e5bc345308752fceb48488b8881a5a16e5bc345308752fceb48488b8881a5a16e5bc345308752fceb48&amp;amp;action=check&amp;amp;wp=47433139315756&amp;amp;name=5a61686c656e67656e69655a61686c656e67656e69655a61686c656e67656e69655a61686c656e67656e69655a61686c656e67656e69655a61686c656e67656e69655a61686c656e67656e6965&amp;amp;language=German"&gt;
+Geochecker&lt;/a&gt; fragen.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Bitte in den Logs keine verräterischen
+Hinweise zu den Rätseln und Orten dieses Caches geben.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Logs und Kommentare die den Lösungsweg
+des Rätsels verraten sind unerwünscht. Wir freuen uns natürlich,
+wenn Du nach der Lösung mitteilst wie lange Du gebraucht hast.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Fotos von Dir beim Duschen sind
+willkommen, sofern keine konkreten Rückschlüsse auf die
+Cachelokation möglich sind.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;&lt;b&gt;»»&lt;/b&gt;&lt;/td&gt;
+&lt;td valign="top" colspan="2"&gt;Rechtschreibefehler und
+Wechstabenverbuchslungen im Listing gehören dem Finder. Es wird
+kein Finderlohn ausgerichtet.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Quersumme Hausaufgabe (N.NNN, E.EEE): Dreiundsiebzig</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="260385667">
+          <groundspeak:date>2012-08-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="679802">Näpi-Piraten</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Kaulfrösche hatten das Rätsel schon lange gelöst und heute war der pefekte Tag für eine "kalte Dusche". Nach der Bluebox brauchten wir diese umsomehr. Da die Dose schon lange keinen Besuch mehr bekam, wurde der Lizard.king über unser kommen per Mail informiert. Bis auf eine Zahl konnten alle gefunden werden. Als ich diese vergebens suchte, sah ich jemande "herum schleichen". Dieser jemand stellte sich dann als Lizard.king vor und bestätigte mir, am richtigen Ort gesucht zu haben. Da dann auch Herr Kaulfrosch und JanD die Infos ebenfalls nicht finden konnten, bekamen wir Hilfe von Lizard.King. Während Frau Kaulfrosch mit den Zahlen jonglierte, genossen Herr Kaulfrosch und ich abwechselnd das kühle Nass. Schnell war klar, wo sich die Endbox befand. Da kalt duschen aber Hunger machte, widmeten wir uns zuerst dem Foodcachen [:D]. Der erste Bergungsversuch wurde dann vom mir gemacht. Als die Location von allen Spinnen gesäubert war [xx(][xx(], hab ich das Feld geräumt und Herr Kaulfrosch durfte sich der widerspenstigen Dose widmen. Bald aber war die Dose offen und wir konnten uns endlich eintragen.
+Danke für den nassen, aber mega coolen Cache, der uns bei den heissen Temperaturen die ersehnte Abkühlung brachte. Von mir ganz klar einen FP!! Ein herzliches Dankeschön an Lizark.king für den Besuch und die geleistete Hilfe</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="260267931">
+          <groundspeak:date>2012-08-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4875863">kaulfrosch</groundspeak:finder>
+          <groundspeak:text encoded="False">dieses rätsel lag schon laaange gelöst in der schublade der kaulfrösche, aber leider ergab sich nie eine möglichkeit die feldarbeit anzugehen... bis... heute [:D] [:D]
+
+nach der "trockenübung" bei der bluebox, machten sich das reduzierte MLC-T5eam, bestehend aus der Näpi-Piratin und den Kaulfröschen, in verstärkung eines muggelkollegen auf, dieses hochgelobte abenteuer zu bewältigen[:D] [:D].
+mit [:O] stellten wir im vorfeld fest, dass schon lange keiner mehr da war. also noch rasch ein mail an den owner geschickt, was sich dann mit einem netten besuch des owners während des abkühlens bezahlbar machte. danke lizard.king für die hilfe und dass du vorbei geschaut hast!! [:D]
+die infos konnten bis auf eine gut gefunden werden und während die piratin und herr kaulfrosch immer wieder und nocheinmal da runter wollten, erledigte frau kaulfrosch die büroarbeit. die koords waren rasch ermittelt und schnell war auch klar wo sich das truckli befinden musste [:D] aber das finaltruckli musste erst mal noch warten, erst war mal noch foodcachen angesagt [^] nach einer stärkung gings dann los, erst versuchte die piratin ihr glück, musste dann aber kehrt um machen. herr kaulfrosch übernahm dann mit den geeigneten hilfsmitteln und rasch war das erst etwas widerspenstige truckli offen und konnte geloggt werden [:D]
+
+danke für dieses nasse, absolut geniale abenteuer, hat riesen spass gemacht, deshalb auch ganz klar einen fp von uns!!! [:D] [:D] [:D]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="181905296">
+          <groundspeak:date>2011-08-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1776637">Boletus Edulis</groundspeak:finder>
+          <groundspeak:text encoded="False">Käschkontrolle durchgeführt:
+
+- Alle Katzenhaare nachgezählt und sind noch komplett [:D]
+- Danach schön geduscht, alle Zwischenstationen i.o. [^]
+- Verstelltes Zahlenschluss gehäckt [}:)]
+- und wieder richtig eingestellt [8D]
+
+Die kalte Dusche ist wieder voll funktionsfähig!
+
+Grüessli Serviceteam
+Steipilz &amp; Chürbis</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="182254361">
+          <groundspeak:date>2011-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1395508">RobyK</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei diesem Prachtswetter und der grossen Hitze MUSS man sich einfach erfrischen. Es ist DER Tag des Jahres, um diesen Wasserfall so richtig geniessen zu können und so mobilisierte ich unser Rumpfteam (leider ist Ingo in den Ferien)!
+Danke cleverer Vorarbeit von Professor alyssii fanden wir sehr schnell den idyllischen Nullpunkt. 
+Die Seilmontage gelang routinemässig und alyssii nahm den ersten Augenschein vor. Das war ein tolles Bild von oben: die Gischt des Wasserfalls verteile sich um seinen Körper und funkelte wie Millionen von Sternen im Sonnenlicht!
+Schon bald hatte er etwas gesichtet und übermittelte Tsidra, welche auf einem seitlichen Podest bereit war, seine gefundenen Daten.
+Dann war sie an der Reihe und nach einem zirkusreifen halben Rückwärtssalto (es war an jener Stelle enorm schlammig und glitschig) übermittelte auch Sie Werte an alyssii.
+Auch ich durfte duschen und fand nach geraumer Weile ein von der Natur seit dem letzten Log vor einem Jahr sehr gut getarntes Etwas, wo ich nach handwerklicher Arbeit endlich besondere Zeichen entziffern und übermitteln konnte.
+
+Dann folge die Suche nach dem Final...
+Tsidra ging vor und entdeckte eine Location, welche sich gut eignen würde. mit einer akrobatischen Einlage und unter Demontage von hundert Brombeerstauden gelang es mir schliesslich, an den Ort der Begierde zu gelangen und siehe da: Ein ausgezeichnet getarnter Final zeigte sich!
+Nun nur noch schnell das Schloss öffnen und loggen, denn ich steckte so ziemlich im Sch.. Schlamm... ...
+Die Zahlenringe des Schlosses waren mit Schlamm umgeben und erst eine eigens angeschaffte Portion Wasser konnte das Ding etwas gängiger machen..
+Aber welche Kombination der Endzahlen wir auch wählten und versuchten und abmühten und und und... und das waren einige und in dieser Lage alles andere als bequem...
+Die Sch... [:(!] Box liess sich nicht öffnen.
+So blieb uns nichts anderes als der Rückzug und alyssii wandte sich dann an den Owner. 
+Dieser bestätigte nach seinem Vor-Ort Augenschein, dass die Zahlen verstellt worden seien und wir Logg-Erlaubnis haben.
+
+Das ist ein Super-Käsch vom Feinsten und nun weiss ich auch, warum auch eine warme Dusche dienlich sein kann.
+Danke für den Feinen Käsch.. ist ein Favorit für mich!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="182179268">
+          <groundspeak:date>2011-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3005801">Tsidra</groundspeak:finder>
+          <groundspeak:text encoded="False">Tja am Sonntag Morgen war es schon sooo heiss, dass RobyK's Vorschlag eine kalte Dusche zu nehmen mich sofort begeisterte. Kurze sms am Alyssii und schon bald waren wir in den Startlöchern. Das Rätsel??? Ja das ist eine andere Geschichte [:P] ! Ich hatte mich vor einiger Zeit ausgiebig damit beschäftigt, doch ohne die von Alyssii ermittelten Katzenhaare wäre ich wohl nicht ans Ziel, oder wohl besser, an die Koords gekommen. An dieser Stelle herzlichen Dank Kumpel [;)] !
+Was für eine tolle Überraschung vor Ort [:D] , schöön super schöön! Schon der Seileinbau machte Spass und dann ging es erst richtig los! Whow, als ich Alyssii so bei der Dusche zusah konnte ich fast nicht mehr warten. Als Zweite stieg ich ein und konnte, nach einer eher ungeplanten akrobatischen Einlage, einen weiteren Hinweis entdecken. Cool [8D][8D][8D] das hat Spass gemacht!
+Als wir alle Infos zusammengetragen hatten und das Rechenresultat vorlag gings ab zur Box. Uff ... das war ja fast nochmal ein T5er [:O] ! Trotz vollem Einsatz von RobyK und danach noch Alyssii, liess sich die Box aber nicht öffnen [:(] [xx(] . Etwas enttäuscht wendeten wir uns dann dem festlichen Teil am Feuer zu. Heute ist natürlich klar ... es konnte nicht gehen.
+An dieser Stelle ein herzliches Danke an den Owner für die rasche Kontrolle, die Wiederinstandsetzung und die Loggerlaubnis!
+Das ist ein absoluter Hammercache [:D][:D][:D] von den Katzenhaaren bis zu den Regentropfen [;)] !</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="182012658">
+          <groundspeak:date>2011-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3081652">alyssii</groundspeak:finder>
+          <groundspeak:text encoded="False">Sonntag Morgen eine SMS von RobyK. "Lust auf eine kalte Dusche"? Ideale Bedingungen. Klar doch! Sofort war ich hell wach.[:)] Zum Glück lag das haarsträubende Rätsel schon eine Weile gelöst auf dem Stapel. Sicher kam mir zu Gute, dass ich ein Spezial Tool einsetzen konnten, welches mir ermöglichte, das animierte Bild zu verlangsamen und die Regentropfen genau zu zählen.
+Am Nullpunkt angekommen zuerst Mal das grosse Staunen. Wow, wahrlich eine tolle Lokation, die ich noch nicht gekannt hatte. Herzlichen Dank an die Owner fürs Zeigen!
+Zuerst haben wir uns ausgebreitet und vorbereitet. Die Herausforderung die fehlenden Hinweise zu finden war dann der Hammer![:)] Ein riesen Spass! Hett voll gfäget![:)] So wollte ich nicht nur einmal runter. Nicht zweimal, sondern gar dreimal. Schliesslich muss alles genau inspiziert werden! 	[;)]
+Danach war bald klar wo es weiter geht und die Dose konnte problemlos in ihrem Versteck gesichtet werden. Nur das verflixte Zahlenschloss! Irgendetwas stimmte hier nicht.[:O]. Alles nachgerechnet, gedreht, gewendet, gewaschen. Nix, nada! Bevor die Zweifel an unseren arithemetischen Fähigkeiten überhand nahmen, beschlossen wir zum gemütlichen Teil mit Grillwurst überzugehen und die Owner zu kontaktieren.
+Vielen Dank an die Owner für die rasche Cache Kontrolle, die Bestätigung, dass wir eigentlich richtig lagen und die Logfreigabe! Weitere Infos im Nachlog von Boletus Edulis.
+Extra Thanks an Tsidra und RobyK für die Motivation, an diesem heissen Tag eine kalte Dusche zu nehmen. Das gemeinsame Abenteuer mit Adrenalin Kick hat mir mega Spass gemacht und wird mir immmer in bester Erinnerung bleiben!
+Und ein Extra Dankeschön an die Owner fürs Auslegen des Caches an diesem reizvollen und sehenswerten Ort. Hat locker einen Favorite Point verdient!
+Viele Grüsse 
+Alyssii</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="122914120">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1055216">RCH65</groundspeak:finder>
+          <groundspeak:text encoded="False">Das Rätsel wurde bereits vor ein paar Wochen auf meinem Pendenzenstapel nach oben gespült. Nachdem ich mir ein paar Gedanken gemacht und ein paar offensichtliche Wi.........e notiert hatte, legte ich es wieder zur Seite, nachdem ich die 5 Terrain-Sterne bemerkt hatte. 
+
+Heute morgen hat uns unverhofft ein Anruf der Berüchtigten aus dem Bett geholt (war es eigentlich schon hell?), dass sie sich heute eine kalte Dusche gönnen werden - die dazu notwendige Basisausrüstung (Schwerkraft-Entkoppler, einen Satz Nuklearbrennstäbe, Seile, Rollen, Restlichtverstärker) sei bereits gepackt. Okay, wenn das so ist, sollten wir uns wohl langsam anziehen...
+
+Nachdem wir die ganze Ausrüstung bis zum Ziel geschleppt hatten, machten wir uns fröhlich an die Ermittlung der ersten Zahlen. Es hat ein bisschen gedauert, bis wir realisierten, dass auch die einfacheren Zahlen nicht [i]ganz[/i] so einfach sind. Die [i]Junior-Berüchtigte[/i] entpuppte sich als Draufgängerin und ging als erste auf Zahlensuche während der [i]Chef-Berüchtigte[/i] souverän sicherte. Der Bach führte heute ziemlich viel Wasser, sodass es ziemlich schwierig war, bei dem tosenden Lärm überhaupt vernünftig zu kommunizieren. Trotzdem hatten wir einige Minuten später bereits alle Hinweise lokalisiert; einer konnte jedoch nicht entziffert werden. Drei Zahlen sind besser als keine - aber definitiv zu wenig um den Cache zu finden. [}:)]
+
+Und so blieb nichts anderes übrig, als nochmals einen Durchgang zu absolvieren - aber dieses Mal war [i]Mr. RCH65[/I] an der Reihe. Nach einem schnellen Abstieg zur fehlenden Zahl hatte ich zuerst auch nur einen "leeren" Hinweis erblickt aber nach genauerer Untersuchung (gar nicht so einfach bei diesem vielen Wasser) war klar, dass der Hinweis von einer dicken Kalkschicht überzogen ist, welche zuerst entfernt werden muss. Nachdem das endlich geschafft war, konnten wir uns schliesslich an die Berechnung der Endkoordinaten machen.
+
+Ab jetzt darf ich natürlich nicht mehr allzu viel erzählen - ausser dass wir einige Minuten später doch tatsächlich die sehr gut versteckte Cachebox erspähten und uns (nachdem auch die letzte Hürde genommen war) frisch geduscht ins Logbuch eintragen durften. [^]
+
+Vielen Dank an Boletus Edulis &amp; Lizard King für dieses umwerfende Erlebnis. Das hat uns allen riesigen Spass gemacht. [8D][8D]
+
+Geloggt um 14:30
+Thanks!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="122913139">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="988117">Die Berüchtigten</groundspeak:finder>
+          <groundspeak:text encoded="False">Während ihrer Schulferien (quasi zum nicht einrosten) mussten die Junior-Berüchtigten die drei Nachkommastellen berechnen[:I]. Als Dank für die Lösung durften sie heute ein paar "Gspähnli" zum duschen mitnehmen[:D]
+Vor Ort die Badehose und den Helm an und los ging es mit dem Reinigungsakt....
+Bei einer der Zahlen musste die Junior-Berüchtigte beim lesen passen (naja, sie hatte ja auch ihre Lesebrille nicht an), doch für etwas hat man ja seine Gspähnli´s dabei[;)] Als sich dann herausstellte, das diese Zahl nicht verschwommen sondern nur verkalkt war, war die Freude gross, dass es nun doch weiter gehen kann. Während der Chef-Berüchtigte brav seinem Oregon auf den Felsvorsprung folgte, hörte er den Foundschrei des restlichen Suchtrupps[V]
+Wow; das war ein wirklich fetziger Nachmittag[8D]
+Herzlichen Berüchtigten-Dank für diesen tollen Cache und die (gar nicht so kalte) Dusche.
+Liebe Grüsse vom Pfnüselufer</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="117030434">
+          <groundspeak:date>2010-07-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3214557">Stärndli</groundspeak:finder>
+          <groundspeak:text encoded="False">Ja eine kalte dusche könnte ich immer wider gebrauchen, aber so ne grosse dusche habe ich zuhause leider nicht. 
+Als wir ab b-day von bockers waren loggten wir den chasch doch leider ist es mit dem loggen im internet ein bisschen später geworden. danke für den super cache</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="117028382">
+          <groundspeak:date>2010-07-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2467013">DonFlo</groundspeak:finder>
+          <groundspeak:text encoded="False">Erstmal danke für den Super Cache mit super Rätsel und allem Drumherum 	[:D]
+Es war ein super schöner Abend mit vielen Freunden und mit meiner Freundin, die sehr stolz auf mich war als ich abgeseilt bin[:D]
+Das Tobel hat uns sehr gut gefallen!
+Das meiste hat da schon das Rudel gesagt[;)]
+Nochmals herzlichen Dank
+Gruss DonFLo
+No Trade
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="116285932">
+          <groundspeak:date>2010-07-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3190433">toconi</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Hausaufgaben waren da ziemlich heftig und ich benötigte Hilfe von meinem Schatz bevor ich meine Premiere halten konnte!  	[:(] 	[:O]
+
+Da Bokers beide Geburtstag hatten im Juni mit runder Zahl wollte Fr. Boker ihren Mann überraschen mit dieser kleinen Feier!! Dieser schöne Ort eignete sich Ideal bei diesen Temperaturen! 	[8D] 	[8D]
+Bei unserer Ankunft waren schon so einige HC-Cacher vor Ort und das Feuer brannte schon ganz nett in der Feuerstelle aber auch auf den Gesichtern der anwesenden Cacher!
+Es dauerte so einige Zeit ~ 1Stunde bis ich mich überwinden konnte mich zum ersten mal aus dieser Höhe abzuseilen! 	[:I]
+Nachdem mcsbilli's frisch geduscht hatten wollte ich diese angenehme Abkühlung auch noch geniessen es war mega der Hammer sooo cooool!!  	[:P] 	[:P]
+
+Gemeinsam im Team wurden die Schlusskoords ermittelt und wir durften uns glücklich im Cache verewigen!! [:D][:D][:D]
+Das lauschige Plätzchen genossen wir mit grillieren und super Stimmung der Anwesenden! 
+
+Besten Dank für den super Cache an diesem schönem Platz an dem wir sicher nicht das letzte mal waren!!!
+
+Herzliche Grüsse
+toconi
+
+TB out</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="115640682">
+          <groundspeak:date>2010-07-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2253592">mcsbilli</groundspeak:finder>
+          <groundspeak:text encoded="False">Juhuii Yabbadabaduuu.
+Das war doch glatt eine 4-fach Premiere und nicht ganz ohne…[:)][:)][:)][:)]
+
+Aber von Anfang an:
+
+Die Hausaufgaben haben uns schon mal eine Weile beschäftigt. Zu doof, dass die Katze grad aus dem Haus war, wir kamen nicht vom Fleck. [:(!] Aber dank eines nützlichen Hinweises von huhuli haben wir dann an der richtigen Stelle gesucht, und so waren die korrekten Antworten endlich gefunden. [:D] So war dann auch der Startpunkt ausgemacht und wir konnten uns aufmachen zum Gruppenevent, dass vom Team Boker zum 60-Jährigen [:O] (2x30 [;)] ) einberufen wurde.
+
+Vor Ort wurden dann die Zahlen von den verschiedenen Teams in Gruppenarbeit gesucht, gefunden, aufgeschrieben und berechnet. Zahl B war nicht ganz klar, die Endkoords konnten nicht stimmen.[V] Also musste noch mal jemand Zahl B besuchen, und nach neuerlicher Rechnerei gaben auch die Koords einen Sinn.[:D] 
+Das Feuer brannte schon lange, die Teams waren fleissig am bräteln und essen. Das Wetter war perfekt, die Stimmung super und so konnten und wollten auch wir noch über die Klippe hüpfen und die kalte Dusche geniessen. Wie schon erwähnt, war es für unser ganzes Team (und für ein Mitglied eines anderen Teams) eine Premiere und wir waren nachher alle (nass und) stolz, das erste mal abgeseilt zu haben. [:)][:)][:)][:)]
+Schliesslich mussten wir uns beeilen, damit wir vor dem Eindunkeln den Schlusscache noch finden konnten. Das Zahlenschloss war noch mal eine Sache für sich, aber mit vereinten Kräften wurde auch diese Schwierigkeit gelöst und die Box gab ihren Inhalt preis.
+
+Vielen Dank an alle, die mithalfen mit Ausrüstung, Auf- und Abbau, Sichern, Unterstützung, Kontrolle der Knoten, Anfeuern, Kuchen backen und natürlich den Ownern fürs Auslegen des tollen Caches.
+
+Es hat uns sehr Spass gemacht, und wir würden gerne wieder einmal in so einer lässigen Runde einen schönen und spannenden Tag verbringen.
+
+mcsbilli
+
+TB out.
+
+
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="115469925">
+          <groundspeak:date>2010-07-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3006270">meersäuli</groundspeak:finder>
+          <groundspeak:text encoded="False">#292@22:00 / no trade
+Ein runder... nein zwei runde Geburtstage wollten geduscht... äähhm gefeiert ... ähhhm geloggt werden? S meersäuli wuselt gerne über den See. Aber so einfach wars doch wieder nicht. Wie kommt meersäuli an die Koords? 6 Fragen stehen im Listing. Ha, ein Klacks. Da wir uns erst kürzlich während xx-Wochen nur noch mit Schirmen beschäftigten, war diese Zahl schnell bestimmt. Z2, ganz klar. Z3, meersäuli mag Blümchen. Z4, tja.. da wurde es dem meersäuli fast schlecht vom Hingucken. Z5, ups .. Schwesterchens zwei Katzen zu Hilfe genommen. Haare ... gezählt und durch zwei (Excel machts möglich.. ups, hab ich zuviel verraten?). Z6, jöhhh, eine herzige Badi, da ist s'meersäuli auch schon bädelen gegangen.
+Mannn... war echt ein Chrampf. 
+Nun ab zum Grill- und Duschfestli im Gelände. Die Dusche zuerst mal in Form eines Gewitters über uns ergehen lassen. Da war ja eine Tolle (HC)-Truppe zusammen gekommen. Das Feuerchen und auch die Seile parat. Während die einen ihr Würstchen verspeisten, duschten sich die anderen. So beim Eindunkeln machten wir uns auf zur Endlocation. Im Schein der Stirn- und TL konnten sich einer nach dem anderen der cooooolen Truppe im Logbüechli verewigen. War ein supermegaschöner kleiner Outdoor-Event und hat mega Spass gemacht.
+Herzlichen Dank für den feinen Spülgang-Cache und führen zu einem ultraschönen Oertchen.
+Liebi Grüessli vom meersäuli</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="115466886">
+          <groundspeak:date>2010-07-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2510014">Tayger</groundspeak:finder>
+          <groundspeak:text encoded="False">Angefangen hats mit der heimlich geplanten Überraschungsparty von Frau Boker für Herr Boker. Also das Rätsel geschnappt und losgetüftelt. Die erste kalte Dusche kam schon nach dem Ermitteln der Zahlen, einfach nur witziges Rätsel, wobei meine Katze leider alle Haare lassen musste... [:(]
+Mit meersäuli dann angetuckert und am Treffpunkt einen sehr verdutzten Herr Boker vorgefunden. [:D] Nach und nach trafen weitere Geocacher/innen ein, gross und klein, alt und jung, sie alle waren vertreten. Die einen fingen an zu grillieren, während sich die anderen eine kalte Dusche gönnten, so dass sie kaum "unbenutzt" lief. Bis fast ins Dunkel hinein bekam so ein jeder seine Abkühlung verpasst an diesem bisher heissesten Tag des Jahres. 
+Irgendwann lagen auch die finalen Koordinaten vor und ab gings zum grandiosen Versteck! [:P]
+
+Dieses Cache bietet alles... von Spass, Abenteuer, Action und Natur pur! Ein riesen Dankeschön an die Owner! 
+
+Vielen Dank auch an Frau Boker für die Planung des tollen Events und war mir auch eine Freude, viele noch unbekannte Cacher/innen kennenzulernen. Ein rundum gelungener Tag!
+
+Gruss
+Tayger
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="115453471">
+          <groundspeak:date>2010-07-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1788110">MarSon</groundspeak:finder>
+          <groundspeak:text encoded="False">Logtime 22:00  #733
+Na das war ja ein Erlebnis! An diesem warmen Sommerabend feierten wir kurzerhand die Burzeltage von bokers und grillierten bei der kalten Dusche. 
+Die Location ist wahnsinnig toll und nach dem ersten Inspizieren der Lage gings dann auch schon los... [:D]
+Die kalte Dusche war doch ziemlich erfrischend, aber die Aufgaben waren durch das Rudel an HC-verdächtigen Cachern bald gelöst. 
+Im Team konnten wir dann die Box lokalisieren... und uns nach einigen Minuten dann auch ins Loggbuch eintragen [;)]
+Ein toller, gut gemachter und abenteuerlicher Cache, der uns sehr gefallen hat!
+Danke an die coole Truppe für den super Abend und danke an die Owner für das [?]
+Gruess</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112249892">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1307765">d'ronja</groundspeak:finder>
+          <groundspeak:text encoded="False">Eine Weile beschäftigte uns das Rätsel schon [:D]. Ob wohl ein Hund gleich viele Schwanzhaare hat wie eine Katze?? Probieren kann ja nicht schaden, also munter drauf los und Hundi hat die Zählerei und die Streicheleinheiten sehr genossen. Nur ja kein Haar ausreissen[B)], das behagte ihr ganz und gar nicht. Also dann noch Wassertropfen und Punkte auf dem Schirm plus die Blümchen und schon ergab das ganze irgendwie plausible Koordinaten, so lustig[:D][:D][:D]......Und dann standen wir vor der kalten Dusche. Wow, was wir da sahen übertraf unsere Erwartungen. Nach den letzten Regenfällen kam da eine ganze Menge an kaltem Duschwasser. Ja, der Roiber hat sich inzwischen eingedeckt für diese Wassertemperatur und eine Abkühlung tut immer gut um überhitzte Gemüter zu kühlen. Schon kurz darauf zappelte er an der Angelschnur und auch der Hai stürzte sich in die reissenden Fluten. Dieses Spiel hätte wohl noch lange so weiter gehen können [:P]. Doch der Endcache, der muss ja auch noch gefunden werden. Während Hai und Roiber sich am Trockenlegen waren, konnte die andere Hälfte vom Ronjateam die Endkoords berechnen. Aber uuups, ob da das Trockenlegen nicht zu früh........ also nochmals Tenuewechsel und schon verschwunden im Dunkeln und ohne Brille mit Tasten die Box erreicht [:P]. Das war vielleicht saucool[:D]. Vielen Dank für das super Abenteuer unter der Dusche und ein Riesen Dank an das geniale Team. Das war Spass pur, vom Anfang bis zum Ende.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111711464">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1454751">Haiopaia</groundspeak:finder>
+          <groundspeak:text encoded="False">Was für ein genialer Cache - hier stimmt alles, von A bis Z! [:D] [8D] [:P] Aber der Reihe nach. [;)]
+Als Vegi bin ich ja seeeeeehr tierlieb. Meinen zwei Büsis könnte ich also eine Komplettscherung (mit Aussparung des Schwanzes) nie "antun". [:O] Also musste Dr. Google herhalten. Immerhin fand ich ein halbwegs nützliches Mass, so dass ich nun wusste, dass eine Katze pro cm2 25'000 Haare hat. [^] [xx(] Leider sind meine beiden Katzen nicht gleich gross. [B)] Ob es da eine EU-Norm gibt - wie bei den Äpfeln und der Pizza-Grösse...? [:O] Kurzerhand beschäftigte ich mich dann doch mal lieber mit dem süüüüüssen Regenschirm-Büsi, dieser Teil des Rätsels erschien mir etwas einfacher. Mit etwas Kombiniergeschick konnte dann auch die Haare-Zahl ermittelt werden. Super!
+Nachdem ich zusammen mit d'ronja am "Mast" die Nerven und bei der "Big Shot" den Schweiss verloren hatte, musste natürlich eine kalte Dusche her. [:P]
+Langsam näherten wir uns den Nullkoords. Toll. Was für eine schöne Gegend! [8D] Und das noch bei bestem Duschwetter. Was der Hai dann vor Ort sah, machte ihn ganz "chribbelig". Sowas gefällt mir! Schnell noch in die richtige Haut schlüpfen - auch d'ronja hatte endlich die Kleidung aufgepimpt [^] - und looooooooooooooos. Einfach mega! Die Duschmenge war nach den Regenfällen übrigens nicht ganz ohne - der Duschablauf kam kaum nach. [:P] Kein Sissi-Rinnsal, nein, sondern die volle Packung. Saucool! [:D]
+Nachdem die Körperreinigung komplett war, durften wir uns dann bald in der tollen Box eintragen. Auch hier hat alles gepasst. Brillenträger, die die Brille auch beim Duschen auf haben, sind ev. im Vorteil. Zu diesem Zeitpunkt hatte ich gedacht, dass es mir meine Linsen eh schon lange ausgespült hat. [;)]
+
+Liebes Team: es hät mega gfätzt!
+Liebe Owner: für den Hai kann man das fast nicht mehr toppen! Danke!
+
+Es liebs Grüässli vo de
+Haiopaia
+
+Out: Coin
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106390563">
+          <groundspeak:date>2010-04-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2131567">chrissy_dugi</groundspeak:finder>
+          <groundspeak:text encoded="False">Dass eine Katze auch ganz nützlich ist, wenn sie "fast" den ganzen Tag nur schläft und frisst und sich ihre Bewegungen auf ein Minimum beschränken, zeigte sich uns bei diesem Mystery in aller Deutlichkeit. Friedlich schnurrte unsere Katze vor sich hin, als wir ihr eine Portion Streicheleinheiten gaben. Und so konnten wir in aller Ruhe die Haare ihres Felles zählen. Dass sie ab und zu doch irgendwo ein Haar liegen lässt, spielte für einmal keine Rolle, da nur die ersten drei Stellen der Anzahl Haare gefragt war. Und so waren schlussendlich alle zufrieden: unsere Katze kriegte ihre Streicheleinheiten, und wir konnten das Rätsel lösen. Was nun folgte, war dann ganz und gar nicht für die Katz, denn diese sträubt sich vor jeglichen Tropfen Nass und macht sich schnell aus dem Staub, wenn auch nur ein Tropfen Wasser ihr Fell benetzt. Bei uns war es gerade umgekehrt, denn wir freuten uns richtiggehend bei diesen frühsommerlichen Temperaturen eine kalte Dusche nehmen zu gehen. Vor Ort konnten wir ausgiebig im kühlen Nass den Tag ausklingen lassen. Die erfrischende Dusche war einfach herrlich und belebte die Sinne. Quasi als "Bettmümpfeli" konnten wir dann zu guter Letzt noch einen Cache aus einem überaus tollen Versteck ziehen.
+
+Danke, Boletus Edulis &amp; Lizard King, für diesen absolut toll gemachten Mystery! Das originelle Einstiegsrätsel finden wir köstlich, und die Locations sind wunderschön gewählt. Grosses Kompliment!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106348363">
+          <groundspeak:date>2010-04-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1989916">hornisse</groundspeak:finder>
+          <groundspeak:text encoded="False">[8D][8D][8D]Silber im grossen  Master Team[8D][8D][8D]
+
+Zuerst war das Rätsel zu lösen und da habe ich natürlich das praktische mit dem Nützlichen kombiniert. 	[:I]
+Also das mit der Katze ging folgendermassen.
+
+Rupf der Katz das letzte Haar. 
+Denn die richtigen Korrds die sind  rar.
+Kannst dir davon ein paar Schuhe kaufen. 
+Und die Katz kann nackig laufen. 
+
+Hi Hi Hi Hi ein bisschen Spass muss sein kauf ihr bei Gelegenheit Sonnencreme.[;)] 
+Zum ernst des Lebens zurück denn als die ganze Truppe am Parkplatz eingetroffen war ging es zum Start wo sich schon ein ganzer Trupp inklusive Owner mit Familie vorfanden und schon am werkeln wahren ein Team hing schon am Seil der Owner feuerte ein was mich fast verführte gleich zum gemütlichen Teil über zu gehen. 	[:P] Als klar war das die Temperatur des Wassers nicht bei 27° war und ich somit ausschied mit Duschen mussten Fossi 31 und die Zecke24 rann. [B)]Trotz der etwas kühlen Temperaturen fanden sie es Cool [8D] als knalharte navy seals so abzuhängen. 	[;)] Als die Zahlen alle gesammelt wahren das Büro perfekte Koordinaten lieferte war mein Part an der Reihe und so schlüpfte ich in den Spezial Anzug für ………………………. Soll ja Spanend bleiben. Als die letzte Hürde dann auch noch geschafft wahr und die Büchse offen war konnten wir uns mit einem Silber logg eintragen und ein Geschenk der Ehre entgegen nehmen. 	[:D] Danke dem Owner Team für die Tolle Lokation das Grosszügige Buffet mit Speis und Trank weiter so. 	[:P]
+Dem Ganzen Team sei auch ein Dank ausgesprochen den es het so richtig grockt mit euch!!!
+Als dann alle ihre Cacher Geschichten erzählt hatten und die letzten Apps installiert wahren ging es dann nach Hause mit guten eindrücken. 	[8D]
+Was wohl die Katze macht?
+
+TFTC Master Hornisse 	[8D][:D]
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106325495">
+          <groundspeak:date>2010-04-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="269071">lizard.king</groundspeak:finder>
+          <groundspeak:text encoded="False">Für alle Hardcore-Master-Duscher die am Eröffnungsabend der kalten Dusche dabei waren, habe ich die Fotos von Euren Heldentaten unter folgender URL parkiert:
+http://www.weilenmann.net/Default.asp?docid=1184
+
+Username: Anzahl kleine gelbe Punkte auf dem Schirm
+Passwort: Anzahl der Haare am Schwanz der Katze
+
+...... oder sonst einfach für Username und Passwort den Trackingcode des TBs im Wasserfall benutzen.
+
+Ehrencodex:
+Der wahre Hardcorecacher schaut die Bilder erst an, wenn wieder alle Haare an der Katze angeklebt sind. [;)] 	[}:)]</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2002741" ref="TB2K0TF">
+          <groundspeak:name>007 Döschwo</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="1474671" ref="TB2199Z">
+          <groundspeak:name>Warmduscher</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+</gpx>
