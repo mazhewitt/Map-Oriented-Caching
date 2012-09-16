@@ -96,11 +96,30 @@ var GeocacheDatabase = (function(){
         return loadingGeocache.promise();
     };
     
+	var loadCaches= function(topLeft, bottomRight){
+		var loadingGeocache = new $.Deferred();
+        database.transaction(function(tx){
+            tx.executeSql('SELECT GPXFile from geocache where lon > ? and lon < ? and lat < ? and lat > ?', [topLeft.lon, bottomRight.lon, topLeft.lat, bottomRight.lat], function(tx, results){
+                var gcList = [];
+				for (var i = 0; i< results.rows.length; i++){
+					gcList[i] = new Geocache();
+                    gcList[i].init(results.rows.item(i).GPXFile);
+                }
+				loadingGeocache.resolve(gcList);
+            }), function(err){
+                loadingGeocache.reject(DATABASE_ERROR, err.message);
+            }
+        });
+        return loadingGeocache.promise();
+		
+	};
+	
     
     var public_interface = {
         init: init,
         store: store,
         loadByGCCode: loadByGCCode,
+		loadCaches : loadCaches,
         GEOCACHE_NOT_FOUND: GEOCACHE_NOT_FOUND,
         DATABASE_ERROR: DATABASE_ERROR
     };
