@@ -1,4 +1,9 @@
-'use strict';
+//Testing JSHints
+/*global describe:true, beforeEach:true, afterEach:true, waitsFor:true, expect:true, it:true, runs:true, sinon:true,  */
+
+//Geocaching JSHints
+/*global Geocache:true, GeocacheDownloader:true, Coordinate:true, GeocacheDatabase:true, GeocachingDotCom:true, GeocacheController:true, $:true */
+
 
 'use strict';
 

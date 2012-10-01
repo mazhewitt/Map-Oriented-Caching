@@ -1,3 +1,7 @@
+//Geocaching JSHints
+/*global Geocache:true, GeocacheDownloader:true, Coordinate:true, GeocacheDatabase:true, GeocachingDotCom:true, GeocacheController:true, $:true */
+
+
 "use strict"
 
 var Waypoint = {};

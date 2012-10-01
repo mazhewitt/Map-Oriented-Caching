@@ -1,3 +1,10 @@
+//Testing JSHints
+/*global describe:true, beforeEach:true, afterEach:true, waitsFor:true, expect:true, it:true, runs:true, sinon:true,  */
+
+//Geocaching JSHints
+/*global Geocache:true, GeocacheDownloader:true, Coordinate:true, GeocacheDatabase:true, GeocachingDotCom:true, GeocacheController:true, $:true */
+
+'use strict'
 describe("Coordinate", function() {
     it("can parse Northen hemispehere coordinates in Degree Decimal Minutes", function() {
         var coordinate = "N 47\u00B0 19.686 E 008\u00B0 34.361";

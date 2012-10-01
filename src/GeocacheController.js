@@ -1,3 +1,7 @@
+//Geocaching JSHints
+/*global Geocache:true, GeocacheDownloader:true, Coordinate:true, GeocacheDatabase:true, GeocachingDotCom:true, GeocacheController:true, $:true, EventEmitter:true*/
+
+
 var GeocacheController = (function(){
 
     var cacheDownloader = GeocachingDotCom.GeocacheDownloader;

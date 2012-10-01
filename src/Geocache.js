@@ -1,3 +1,6 @@
+//Geocaching JSHints
+/*global Geocache:true, GeocacheDownloader:true, Coordinate:true, GeocacheDatabase:true, GeocachingDotCom:true, GeocacheController:true, $:true, Waypoint:true */
+/*jshint es5:true*/
 'use strict';
 
 var Geocache;
@@ -23,7 +26,7 @@ var Geocache;
 			return this._gpxFile;
 		},
 		set gpxFile(gpxFile){
-			init(gpxFile);
+			this.init(gpxFile);
 		},
 		get mainCoordinate(){
 			return this._wayPoints[0].coordinate;
@@ -79,7 +82,7 @@ var Geocache;
 			wayPoints[i] = new Waypoint();
 			wayPoints[i].name = extractWptName(gpxWayPts[i]);
 			var lat = Number(gpxWayPts[i].getAttribute("lat"));
-			var lon = Number(gpxWayPts[i].getAttribute("lon"))
+			var lon = Number(gpxWayPts[i].getAttribute("lon"));
 			wayPoints[i].setCoordinate(lat,lon);
 		}
 		return wayPoints;
