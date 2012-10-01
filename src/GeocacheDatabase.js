@@ -22,7 +22,7 @@ var GeocacheDatabase = (function(){
             var dbSize = 20 * 1024 * 1024;
             database = openDatabase("Geocaches", "1.0", "Geocaching Store", dbSize);
             _initialised = true;
-            initialisingDatabase.resolve()
+            initialisingDatabase.resolve();
         }
         else {
             initialisingDatabase.resolve();
@@ -31,47 +31,21 @@ var GeocacheDatabase = (function(){
     };
     
     var createTable = function(){
-        var creatingTable = new $.Deferred();
+        var creatingConstraint= new $.Deferred();
         database.transaction(function(tx){
             tx.executeSql("CREATE TABLE IF NOT EXISTS " +
-            "geocache(GUID TEXT, GCCode TEXT, lat REAL, lon REAL, GPXFile TEXT)", []);
+            "geocache(GUID TEXT, GCCode TEXT PRIMARY KEY, lat REAL, lon REAL, GPXFile TEXT)");
         }, function(tx, err){
-            creatingTable.fail(err);
+            creatingConstraint.fail(err);
         }, function(tx, err){
-            creatingTable.resolve();
+            creatingConstraint.resolve();
         });
     };
     
     var store = function(geocache){
-        var storingGeocache = new $.Deferred();
-        
-        var loadPromise = loadByGCCode(geocache.GCCode).done(function(gc){
-            saveToDatabase(geocache, true).done(function(){
-                storingGeocache.resolve();
-            });
-        }).fail(function(code, err){
-            if (code === GEOCACHE_NOT_FOUND) {
-                saveToDatabase(geocache, false).done(function(){
-                    storingGeocache.resolve();
-                });
-            }
-            else {
-                storingGeocache.reject(code, err);
-            }
-        });
-        
-        return storingGeocache.promise();
-    };
-    
-    var saveToDatabase = function(geocache, shouldUpdate){
         var savingGeocache = new $.Deferred();
         database.transaction(function(tx){
-            if (shouldUpdate) {
-                tx.executeSql('UPDATE geocache set GUID=?, lat=?, lon=?, GPXFile=? where GCCode = ?', [geocache.GUID, geocache.mainCoordinate.lat, geocache.mainCoordinate.lon, geocache.gpxFile, geocache.GCCode]);
-            }
-            else {
-                tx.executeSql('INSERT INTO geocache(GUID, GCCode, lat, lon, GPXFile) VALUES (?,?,?,?,?)', [geocache.GUID, geocache.GCCode, geocache.mainCoordinate.lat, geocache.mainCoordinate.lon, geocache.gpxFile]);
-            }
+            tx.executeSql('REPLACE INTO geocache(GUID, GCCode, lat, lon, GPXFile) VALUES (?,?,?,?,?)', [geocache.GUID, geocache.GCCode, geocache.mainCoordinate.lat, geocache.mainCoordinate.lon, geocache.gpxFile]);
         }, function(err){
             savingGeocache.reject(DATABASE_ERROR, err.message);
         }, function(tx, results){
@@ -92,12 +66,13 @@ var GeocacheDatabase = (function(){
                     gc.init(results.rows.item(0).GPXFile);
                     loadingGeocache.resolve(gc);
                 }
-            }), function(err){
+            }, function(err){
                 loadingGeocache.reject(DATABASE_ERROR, err.message);
-            }
+            });
         });
         return loadingGeocache.promise();
     };
+    
     
 	var loadCaches= function(topLeft, bottomRight){
 		var loadingGeocache = new $.Deferred();
@@ -109,9 +84,9 @@ var GeocacheDatabase = (function(){
                     gcList[i].init(results.rows.item(i).GPXFile);
                 }
 				loadingGeocache.resolve(gcList);
-            }), function(err){
+            }, function(err){
                 loadingGeocache.reject(DATABASE_ERROR, err.message);
-            }
+            });
         });
         return loadingGeocache.promise();
 		
