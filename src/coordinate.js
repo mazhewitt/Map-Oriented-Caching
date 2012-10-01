@@ -1,5 +1,6 @@
 //Geocaching JSHints
 /*global Geocache:true, GeocacheDownloader:true, Coordinate:true, GeocacheDatabase:true, GeocachingDotCom:true, GeocacheController:true, $:true */
+/*jshint es5:true*/
 
 "use strict";
 
@@ -7,31 +8,31 @@ var Coordinate;
 
 
 (function() {
- 	// private variables
-	var dd_reg = /^([NS\+\-]?)\s?(\d{1,2})[., ](\d+)[ °',]{0,2}([EOW\+\-]?)\s?(\d{1,3})[., ](\d+)[ °',]{0,2}$/i;
+    // private variables
+    var dd_reg = /^([NS\+\-]?)\s?(\d{1,2})[., ](\d+)[ °',]{0,2}([EOW\+\-]?)\s?(\d{1,3})[., ](\d+)[ °',]{0,2}$/i;
     var dm_reg = /^([NS\+\-]?)\s?(\d{1,2})[ °]{0,2}(\d\d?\d?)[.,](\d+)['\s,]+([EOW\+\-]?)\s?(\d{1,3})[ °']{0,2}(\d{1,3})[.,](\d+)?[\s']*$/i;
     var dm_match = /[NS\+\-]?\s?\d{1,2}[ °]{0,2}\d{1,3}[., ]\d+['\s,]+[EOW\+\-]?\s?\d{1,3}[ °]{0,2}\d{1,3}[.,]\d+?[\s']*/g;
 
-	
 
- 	// contructor
+
+    // contructor
     Coordinate = function() {};
     // properties
     Coordinate.prototype = {
-		get lat(){
+        get lat() {
             return this._lat;
         },
-        set lat(val){
+        set lat(val) {
             this._lat = val;
         },
-		get lon(){
+        get lon() {
             return this._lon;
         },
-        set lon(val){
+        set lon(val) {
             this._lon = val;
         }
     };
-	
+
 
     Coordinate.prototype.SQLROW = {
         lat: 'REAL',
@@ -64,7 +65,7 @@ var Coordinate;
     };
 
     Coordinate.prototype.to_dm_array = function() {
-        var dma = this.to_dm()
+        var dma = this.to_dm();
         var lat_d = dma[0];
         var lat_m = dma[1];
         var lon_d = dma[2];
@@ -77,7 +78,7 @@ var Coordinate;
         var lat_array = [];
 
         var lat_string = lat_d.numberFormat("00") + " " + lat_m.toFixed(5);
-        var lat_to_dm_array = /^(\d)(\d) (\d?)(\d)\.(\d)(\d)(\d)(\d)(\d)$/
+        var lat_to_dm_array = /^(\d)(\d) (\d?)(\d)\.(\d)(\d)(\d)(\d)(\d)$/;
         var lat_match = lat_to_dm_array.exec(lat_string);
         for (var i = 0; i < 8; i++) {
             lat_array[i] = Number(lat_match[i + 1] === "" ? 0 : lat_match[i + 1]);
@@ -88,9 +89,9 @@ var Coordinate;
         lon_m = Math.abs(lon_m);
         var lon_string = lon_d.numberFormat("000") + " " + lon_m.toFixed(5);
         var lon_array = [];
-        var lon_to_dm_array = /^(\d)(\d)(\d) (\d?)(\d)\.(\d)(\d)(\d)(\d)(\d)$/
+        var lon_to_dm_array = /^(\d)(\d)(\d) (\d?)(\d)\.(\d)(\d)(\d)(\d)(\d)$/;
         var lon_match = lon_to_dm_array.exec(lon_string);
-        for (var i = 0; i < 9; i++) {
+        for (i = 0; i < 9; i++) {
             lon_array[i] = Number(lon_match[i + 1] === "" ? 0 : lon_match[i + 1]);
         }
         return [sign_lat, lat_array, sign_lon, lon_array];
@@ -113,8 +114,8 @@ var Coordinate;
         var lon_str = Math.abs(this.lon).numberFormat("000.00000");
         var lat_str = Math.abs(this.lat).numberFormat("00.00000");
 
-        var lat_parser = /^(\d)(\d)\.(\d)(\d)(\d)(\d)(\d)$/
-        var lon_parser = /^(\d)(\d)(\d)\.(\d)(\d)(\d)(\d)(\d)$/
+        var lat_parser = /^(\d)(\d)\.(\d)(\d)(\d)(\d)(\d)$/;
+        var lon_parser = /^(\d)(\d)(\d)\.(\d)(\d)(\d)(\d)(\d)$/;
         var lat_match = lat_parser.exec(lat_str);
         var lon_match = lon_parser.exec(lon_str);
 
@@ -125,7 +126,7 @@ var Coordinate;
             lat_array[i] = Number(lat_match[i + 1]);
         }
 
-        for (var i = 0; i < 8; i++) {
+        for (i = 0; i < 8; i++) {
             lon_array[i] = Number(lon_match[i + 1]);
         }
 
@@ -185,13 +186,13 @@ var Coordinate;
     };
 
 
-    Coordinate.search_coordinates = function(text){
+    Coordinate.search_coordinates = function(text) {
         var found_coordinates = [];
         var dm_list = text.match(dm_match);
-        for (var c in dm_list){
-          var coord = new Coordinate();
-          coord.from_str(dm_list[c])
-          found_coordinates.push(coord);   
+        for (var c in dm_list) {
+            var coord = new Coordinate();
+            coord.from_str(dm_list[c]);
+            found_coordinates.push(coord);
         }
         return found_coordinates;
     };
@@ -238,7 +239,7 @@ var Coordinate;
             var dm = this.to_dm();
             return c + " " + Math.abs(dm[0]).numberFormat("00") + this.DEGREES + " " + Math.abs(dm[1]).numberFormat("00.000");
         }
-    }
+    };
 
     Coordinate.prototype.get_lon = function(format) {
         var l = Math.abs(this.lon);
@@ -251,11 +252,11 @@ var Coordinate;
             var dm = this.to_dm();
             return c + " " + Math.abs(dm[2]).numberFormat("000") + this.DEGREES + " " + Math.abs(dm[3]).numberFormat("00.000");
         }
-    }
+    };
 
     Coordinate.prototype.get_latlon = function(format) {
         return this.get_lat(format) + " " + this.get_lon(format);
-    }
+    };
 
     Coordinate.prototype.serialize = function(self) {
         return {
@@ -263,23 +264,23 @@ var Coordinate;
             'lon': this.lon,
             'name': this.name
         };
-    }
+    };
 
     Coordinate.prototype.unserialize = function(data) {
         this.lat = data.lat;
         this.lon = data.lon;
         this.name = data.name;
-    }
+    };
 
     Coordinate.prototype.distance_to = function(tlat, tlon) {
         var lat = this.lat;
         var lon = this.lon;
-        var dlat = Math.pow(Math.sin((tlat - lat) * (Math.PI / 180.0) / 2), 2)
-        var dlon = Math.pow(Math.sin((tlon - lon) * (Math.PI / 180.0) / 2), 2)
+        var dlat = Math.pow(Math.sin((tlat - lat) * (Math.PI / 180.0) / 2), 2);
+        var dlon = Math.pow(Math.sin((tlon - lon) * (Math.PI / 180.0) / 2), 2);
         var a = dlat + Math.cos(lat * (Math.PI / 180.0)) * Math.cos(tlat * (Math.PI / 180.0)) * dlon;
         var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
         return 6371000.0 * c;
-    }
+    };
 
 
 

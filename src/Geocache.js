@@ -1,6 +1,7 @@
 //Geocaching JSHints
 /*global Geocache:true, GeocacheDownloader:true, Coordinate:true, GeocacheDatabase:true, GeocachingDotCom:true, GeocacheController:true, $:true, Waypoint:true */
 /*jshint es5:true*/
+
 'use strict';
 
 var Geocache;
