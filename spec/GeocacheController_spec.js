@@ -35,6 +35,7 @@ describe("GeocacheController", function() {
             loadedCache = geocache;
             hasLoaded = true;
         });
+        
         geocacheController.loadGeocacheByGCCodeFromGeocachingDotCom(GCCode);
         waitsFor(function() {
             return hasLoaded;
@@ -45,6 +46,7 @@ describe("GeocacheController", function() {
             expect(GeocacheDatabase.store.calledWith(loadedCache));
         });
     });
+    
 
     it("can load caches around a location from the internet and they will be stored in the database", function() {
         var geocacheController = GeocacheController;
