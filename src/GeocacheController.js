@@ -12,23 +12,25 @@ var GeocacheController = (function() {
     var GEOCACHE_DOWNLOAD_FAILED = "GeocacheController.GEOCACHE_DOWNLOAD_FAILED";
 
 
-    var loadGeocacheByGCCode = function(gcCode) {
+    var loadGeocacheByGCCodeFromGeocachingDotCom = function(gcCode) {
         cacheDownloader.downloadCacheXMLByGCCode(gcCode).done(function(gc, message) {
             var geocache = new Geocache();
             geocache.init(gc);
+            GeocacheDatabase.store(gc);
             eventServer.emit(GEOCACHE_DOWNLOADED, geocache, message);
         }).fail(function(err) {
             eventServer.emit(GEOCACHE_DOWNLOAD_FAILED, err);
         });
     };
 
-    var loadCachesByGUID = function(guidList) {
+    var loadCachesByGUIDFromGeocachingDotCom = function(guidList) {
         var failCallback = function(err) {
                 eventServer.emit(GEOCACHE_DOWNLOAD_FAILED, err);
             };
         var successCallback = function(gc, message) {
                 var geocache = new Geocache();
                 geocache.init(gc);
+                GeocacheDatabase.store(gc);
                 eventServer.emit(GEOCACHE_DOWNLOADED, geocache, message);
             };
         for (var i = 0; i < guidList.length; i++) {
@@ -36,17 +38,16 @@ var GeocacheController = (function() {
         }
     };
 
-    var loadGeocachesByCoordinate = function(lat, lon, dist) {
-        cacheDownloader.downloadListOfCacheGuids(lat, lon, dist).done(loadCachesByGUID).fail(function(err) {
+    var loadGeocachesByCoordinateFromGeoCachingDotCom = function(lat, lon, dist) {
+        cacheDownloader.downloadListOfCacheGuids(lat, lon, dist).done(loadCachesByGUIDFromGeocachingDotCom).fail(function(err) {
             eventServer.emit(GEOCACHE_DOWNLOAD_FAILED, err);
         });
-
     };
 
 
     var public_interface = {
-        loadGeocacheByGCCode: loadGeocacheByGCCode,
-        loadGeocachesByCoordinate: loadGeocachesByCoordinate,
+        loadGeocacheByGCCodeFromGeocachingDotCom: loadGeocacheByGCCodeFromGeocachingDotCom,
+        loadGeocachesByCoordinateFromGeoCachingDotCom: loadGeocachesByCoordinateFromGeoCachingDotCom,
         GEOCACHE_DOWNLOADED: GEOCACHE_DOWNLOADED,
         GEOCACHE_DOWNLOAD_FAILED: GEOCACHE_DOWNLOAD_FAILED,
         eventServer: eventServer
