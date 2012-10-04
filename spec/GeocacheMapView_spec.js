@@ -13,9 +13,6 @@ describe("GeocacheMapView", function() {
         });
     });
 
-    it("a sandbox should be added to the test", function() {
-        expect($('<div id="sandbox"></div>')).toBe('div#sandbox');
-    });
     
     it("should add a leaflet map to the div when intialised", function() {
         GeocacheMapView.init('test-map');
