@@ -9,7 +9,7 @@ describe("GeocacheMapView", function() {
 
     beforeEach(function() {
         sandbox({
-            id: 'my-id'
+            id: 'test-map'
         });
     });
 
@@ -18,8 +18,8 @@ describe("GeocacheMapView", function() {
     });
     
     it("should add a leaflet map to the div when intialised", function() {
-        GeocacheMapView.init('sandbox');
-        expect($('div#sandbox')).toContain('div.leaflet-layer');
+        GeocacheMapView.init('test-map');
+        expect($('div#test-map')).toContain('div.leaflet-layer');
     });
 
 });
