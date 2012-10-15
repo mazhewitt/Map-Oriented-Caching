@@ -13,128 +13,66 @@ var GeocacheMapUILayer = L.Class.extend({
     options: {
         opacity: 1
     },
+
+    _waypointElements : [],
     
     get geocache() {
         return this._geocache;
     },
         
     set geocache(cache){
-        this.initialize(cache);
+        this._geocache = cache;
+        this._initWaypoints();
     },        
 
-    initialize: function(geocache) { // (String, LatLngBounds, Object)
-       
+    initialize: function(gc) { 
+       this.geocache = gc;
     },
 
-    onAdd: function(map) {
-        this._map = map;
-
-        if (!this._image) {
-            this._initImage();
-        }
-
-        map._panes.overlayPane.appendChild(this._image);
-
-        map.on('viewreset', this._reset, this);
-
-        if (map.options.zoomAnimation && L.Browser.any3d) {
-            map.on('zoomanim', this._animateZoom, this);
-        }
-
-        this._reset();
+    _initWaypoints: function(){
+    	var waypoints = this._geocache.waypoints;
+    	
+    	for (var i =0; i < waypoints.length; i++){
+    		this._waypointElements[i] = L.DomUtil.create('div', 'geocache-layer leaflet-zoom-hide');
+    	}
     },
-
-    onRemove: function(map) {
-        map.getPanes().overlayPane.removeChild(this._image);
-
-        map.off('viewreset', this._reset, this);
-
-        if (map.options.zoomAnimation) {
-            map.off('zoomanim', this._animateZoom, this);
-        }
-    },
-
+    
+    
     addTo: function(map) {
         map.addLayer(this);
         return this;
-    },
+    },  
 
-    setOpacity: function(opacity) {
-        this.options.opacity = opacity;
-        this._updateOpacity();
-        return this;
-    },
-
-    // TODO remove bringToFront/bringToBack duplication from TileLayer/Path
-    bringToFront: function() {
-        if (this._image) {
-            this._map._panes.overlayPane.appendChild(this._image);
+    onAdd: function (map) {
+        this._map = map;
+        var waypoints = this._geocache.waypoints;
+        for (var i =0; i < waypoints.length; i++){
+        	map.getPanes().overlayPane.appendChild(this._waypointElements[i]);
         }
-        return this;
+        // add a viewreset event listener for updating layer's position, do the latter
+        map.on('viewreset', this._reset, this);
+        this._reset();
     },
 
-    bringToBack: function() {
-        var pane = this._map._panes.overlayPane;
-        if (this._image) {
-            pane.insertBefore(this._image, pane.firstChild);
-        }
-        return this;
+    onRemove: function (map) {
+        // remove layer's DOM elements and listeners
+    	 var waypoints = this._geocache.waypoints;
+         for (var i =0; i < waypoints.length; i++){
+         	map.getPanes().overlayPane.removeChild(this._waypointElements[i]);
+         }
+        map.off('viewreset', this._reset, this);
     },
 
-    _initImage: function() {
-        this._image = L.DomUtil.create('img', 'leaflet-image-layer');
-
-        if (this._map.options.zoomAnimation && L.Browser.any3d) {
-            L.DomUtil.addClass(this._image, 'leaflet-zoom-animated');
-        }
-        else {
-            L.DomUtil.addClass(this._image, 'leaflet-zoom-hide');
-        }
-
-        this._updateOpacity();
-
-        //TODO createImage util method to remove duplication
-        L.Util.extend(this._image, {
-            galleryimg: 'no',
-            onselectstart: L.Util.falseFn,
-            onmousemove: L.Util.falseFn,
-            onload: L.Util.bind(this._onImageLoad, this),
-            src: this._url
-        });
-    },
-
-    _animateZoom: function(e) {
-        var map = this._map,
-            image = this._image,
-            scale = map.getZoomScale(e.zoom),
-            nw = this._bounds.getNorthWest(),
-            se = this._bounds.getSouthEast(),
-
-            topLeft = map._latLngToNewLayerPoint(nw, e.zoom, e.center),
-            size = map._latLngToNewLayerPoint(se, e.zoom, e.center)._subtract(topLeft),
-            currentSize = map.latLngToLayerPoint(se)._subtract(map.latLngToLayerPoint(nw)),
-            origin = topLeft._add(size._subtract(currentSize)._divideBy(2));
-
-        image.style[L.DomUtil.TRANSFORM] = L.DomUtil.getTranslateString(origin) + ' scale(' + scale + ') ';
-    },
-
-    _reset: function() {
-        var image = this._image,
-            topLeft = this._map.latLngToLayerPoint(this._bounds.getNorthWest()),
-            size = this._map.latLngToLayerPoint(this._bounds.getSouthEast())._subtract(topLeft);
-
-        L.DomUtil.setPosition(image, topLeft);
-
-        image.style.width = size.x + 'px';
-        image.style.height = size.y + 'px';
-    },
-
-    _onImageLoad: function() {
-        this.fire('load');
-    },
-
-    _updateOpacity: function() {
-        L.DomUtil.setOpacity(this._image, this.options.opacity);
+    _reset: function () {
+        // update layer's position
+    	var waypoints = this._geocache.waypoints;
+    	for (var i =0; i < waypoints.length; i++){
+    		var latlng = new L.LatLng(waypoints[i].lat, waypoints[i].lon);
+    		var pos = this._map.latLngToLayerPoint(latlng);
+    		L.DomUtil.setPosition(this._waypointElements[i], pos);
+    	}
     }
+
+
 });
 

@@ -22,11 +22,11 @@ describe("GeocacheMapUILayer", function() {
     
 
     it ("It can be initialised with a geocache", function(){
-        var cacheLayer = new GeocacheMapUILayer();
         var gc = new Geocache();
         gc.init(gpxFile);
-        cacheLayer.geocache = gc;
-        expect (cacheLayer.geocache).toEqual(gc);
+        var cacheLayer = new GeocacheMapUILayer(gc);
+        var cgc = cacheLayer.geocache;
+        expect (cgc).toEqual(gc);
     });
     
     it ("should diplay the wayponts of the cache on the map", function (){

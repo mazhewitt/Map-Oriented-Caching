@@ -31,6 +31,9 @@ var Geocache;
 		},
 		get mainCoordinate(){
 			return this._wayPoints[0].coordinate;
+		},
+		get waypoints() {
+			return this.getWaypoints();
 		}
 		
 	};
