@@ -14,26 +14,38 @@ var GeocacheMapUILayer = L.Class.extend({
         opacity: 1
     },
 
-    _waypointElements : [],
+    _waypointMarkers : [],
     
-    get geocache() {
+    getGeocache: function() {
         return this._geocache;
     },
         
-    set geocache(cache){
-        this._geocache = cache;
+    setGeocache: function(cache){
+    	this._geocache = cache;
         this._initWaypoints();
     },        
 
     initialize: function(gc) { 
-       this.geocache = gc;
+       this.setGeocache(gc);
     },
 
     _initWaypoints: function(){
     	var waypoints = this._geocache.waypoints;
+    	this._waypointMarkers = [];
     	
     	for (var i =0; i < waypoints.length; i++){
-    		this._waypointElements[i] = L.DomUtil.create('div', 'geocache-layer leaflet-zoom-hide');
+    		var waypointMarkerOptions = {
+    			icon: new L.Icon.Default(),
+    			title: waypoints[i].name,
+    			clickable: true,
+    			draggable: false,
+    			zIndexOffset: 0,
+    			opacity: 1
+    		};
+    		
+    		var latLng = new L.LatLng(waypoints[i].coordinate.lat, waypoints[i].coordinate.lon);
+    		
+    		this._waypointMarkers[i] = new L.Marker(latLng, waypointMarkerOptions);
     	}
     },
     
@@ -47,32 +59,18 @@ var GeocacheMapUILayer = L.Class.extend({
         this._map = map;
         var waypoints = this._geocache.waypoints;
         for (var i =0; i < waypoints.length; i++){
-        	map.getPanes().overlayPane.appendChild(this._waypointElements[i]);
+        	this._waypointMarkers[i].addTo(map);
         }
-        // add a viewreset event listener for updating layer's position, do the latter
-        map.on('viewreset', this._reset, this);
-        this._reset();
     },
 
     onRemove: function (map) {
         // remove layer's DOM elements and listeners
     	 var waypoints = this._geocache.waypoints;
          for (var i =0; i < waypoints.length; i++){
-         	map.getPanes().overlayPane.removeChild(this._waypointElements[i]);
+         	map.removeFrom(map);
          }
-        map.off('viewreset', this._reset, this);
-    },
-
-    _reset: function () {
-        // update layer's position
-    	var waypoints = this._geocache.waypoints;
-    	for (var i =0; i < waypoints.length; i++){
-    		var latlng = new L.LatLng(waypoints[i].lat, waypoints[i].lon);
-    		var pos = this._map.latLngToLayerPoint(latlng);
-    		L.DomUtil.setPosition(this._waypointElements[i], pos);
-    	}
     }
 
-
+  
 });
 
