@@ -6,6 +6,7 @@
 
 // Leaflet JSHints
 /*global L:true */
+/*jshint es5:true*/
 
 'use strict';
 describe("GeocacheMapUILayer", function() {
@@ -23,7 +24,7 @@ describe("GeocacheMapUILayer", function() {
 
     var stubMap = {
         addLayer: function(layer) {
-            layer.onAdd(stubMap);
+            layer.onAdd(this);
         }
     };
 
@@ -53,13 +54,7 @@ describe("GeocacheMapUILayer", function() {
         expect(markerStub.callCount).toEqual(gc.waypoints.length);
     });
 
-    it("it can remove all the markers from the map", function() {
-        var gc = new Geocache();
-        gc.init(gpxFile);
-        var cacheLayer = new GeocacheMapUILayer(gc);
-        cacheLayer.addTo(stubMap);
-        expect(markerStub.callCount).toEqual(gc.waypoints.length);
-    });
+
 
 
 
