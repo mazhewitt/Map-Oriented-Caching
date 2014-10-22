@@ -21,6 +21,7 @@ describe("Geocache", function(){
         expect(geoCache.name).toEqual("Devil's Porridge");
     });
     
+    
 	it ("has a main coordinate", function(){
 		expect (geoCache.mainCoordinate.lat).toEqual(55.001483);
 		expect (geoCache.mainCoordinate.lon).toEqual(-3.012433);

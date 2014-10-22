@@ -24,6 +24,7 @@ var GeocacheMapView = (function() {
         map.setView(new L.LatLng(51.3, 0.7), 9);
         map.addLayer(osm);
         map.locate();
+        
     };
 
     var init = function(div_id) {

@@ -3,7 +3,7 @@
 
 //Geocaching JSHints
 /*global Geocache:true, GeocacheDownloader:true, Coordinate:true, GeocacheDatabase:true, GeocachingDotCom:true, GeocacheController:true, $:true GeocacheMapView:true */
-
+ 
 'use strict';
 describe("GeocacheMapView", function() {
 
@@ -49,8 +49,8 @@ describe("GeocacheMapView", function() {
         
         runs(function(){
            expect (location).toBeDefined(); 
-           expect (location.lat.toFixed(4)).toEqual(52.5150.toFixed(4));
-           expect (location.lng.toFixed(4)).toEqual(13.3890.toFixed(4));
+           expect (location.lat.toFixed(4)).toEqual((52.5150).toFixed(4));
+           expect (location.lng.toFixed(4)).toEqual((13.3890).toFixed(4));
         });
         
     });
